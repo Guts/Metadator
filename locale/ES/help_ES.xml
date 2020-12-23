@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tooltips>
+	<tooltip>
+		<id>1</id>
+		<ref>Titre du profil</ref>
+		<txt>Saisissez ici le titre du nouveau profil (sans espaces ni caractères spéciaux).</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>2</id>
+		<ref>Remplissage automatique depuis un profil existant</ref>
+		<txt>Pré-remplir le formulaire à partir des données d'un profil déjà existant.
+(choisir puis cliquer sur le bouton "Ou remplir les champs avec ce profil").</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>3</id>
+		<ref>Présentation globale des données.</ref>
+		<txt>Description globale des jeux de données concernées par le profil.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#resume_de_la_ressource</doc>
+	</tooltip>
+	<tooltip>
+		<id>4</id>
+		<ref>Généalogie : sources et historique</ref>
+		<txt>La généalogie fait état de l’historique du traitement et/ou de la qualité générale des données.
+Elle peut inclure une information indiquant si la série de données a été validée ou soumise à un contrôle de qualité, 
+s’il s’agit de la version officielle (dans le cas où il existe plusieurs versions) et si elle a une valeur légale. 
+Il s’agit d’apporter une description de l’histoire du jeu de données, des moyens, procédures ou traitements informatiques mis en œuvre.
+La date ou la version de la donnée source est également un élément utile. 
+Un lien vers une ressource documentaire externe (ce peut être un PDF) décrivant par exemple un processus de transformation, pourra être inséré.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#genealogie</doc>
+	</tooltip>
+	<tooltip>
+		<id>5</id>
+		<ref>Thèmes INSPIRE</ref>
+		<txt>Choisir les thèmes INSPIRE correspondants aux données.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#classification_des_donnees_et_services_geographiques</doc>
+	</tooltip>
+	<tooltip>
+		<id>6</id>
+		<ref>Mots-clés personnalisés</ref>
+		<txt>Ajouter un ou plusieurs mots clés libres ou correspondant à un thésaurus interne.
+Important pour la cohérence de la recherche via un catalogue, un moissonnage ciblé ou un service d'indexation.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#mots_cles_recommandes_facultatifs</doc>
+	</tooltip>
+	<tooltip>
+		<id>7</id>
+		<ref>Mots-clés géographiques</ref>
+		<txt>Mots-clés des zones géographiques concernées par la donnée.
+Pratique pour faciliter la recherche et l'indexation.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>8</id>
+		<ref>Supprimer le mot-clé</ref>
+		<txt>Supprime définitivement le mot-clé sélectionné, à la fois de la liste mais aussi du fichier des mots-clés. Pratique pour les mots-clés entrés avec une faute de frappe par exemple.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>9</id>
+		<ref>Mot-clé de localisation</ref>
+		<txt>Indiquer le lieu concerné par les données. Séparer les lieux par une virgule comme dans l'exemple. Ne pas faire une liste, 2 ou 3 lieux sont largement suffisants.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>10</id>
+		<ref>Mot-clé de localisation</ref>
+		<txt>Indiquer le lieu concerné par les données. Séparer les lieux par une virgule comme dans l'exemple. Ne pas faire une liste, 2 ou 3 lieux sont largement suffisants.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>11</id>
+		<ref>Site internet</ref>
+		<txt>Adresse web de référence des données (catalogue, service de téléchargement, portail, etc.).</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#localisateur_de_la_ressource</doc>
+	</tooltip>
+	<tooltip>
+		<id>12</id>
+		<ref>Intitulé du lien web</ref>
+		<txt>Étiquette du lien qui indique si possible la nature du lien
+(WMS, service de téléchargement, portail, etc.)</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>13</id>
+		<ref>Échelle</ref>
+		<txt>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>14</id>
+		<ref>Précision</ref>
+		<txt>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>15</id>
+		<ref>Rythme d'actualisation</ref>
+		<txt>Rythme d'actualisation de la ressource</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>16</id>
+		<ref>Restrictions de diffusion</ref>
+		<txt>Indique comment les données peuvent être diffusées.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#contraintes_en_matiere_d_acces_et_d_utilisation</doc>
+	</tooltip>
+	<tooltip>
+		<id>17</id>
+		<ref>Langue de la donnée</ref>
+		<txt>Langue utilisée dans la ressource</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#langue_de_la_ressource</doc>
+	</tooltip>
+	<tooltip>
+		<id>18</id>
+		<ref>Langue de la métadonnée</ref>
+		<txt>Langue utilisée pour décrire les ressources. A priori, celle de ce formulaire.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#langue_des_metadonnees</doc>
+	</tooltip>
+	<tooltip>
+		<id>19</id>
+		<ref>Conformité INSPIRE</ref>
+		<txt>Les exigences de conformité seront remplies au moyen des éléments de métadonnées « spécification » et « degré ». La conformité est une déclaration de la seule responsabilité du producteur et il n’est pas prévu de contrôler, en France, cette déclaration. Une série de données conforme remplit toutes les conditions posées par la spécification visée (voir VIII.1 Spécification). Ces deux éléments de métadonnées (spécification et degré) expriment la conformité des données (et non des métadonnées !) à une spécification. La première exigence de conformité vise la mise en oeuvre des règlements européens dits d’interopérabilité. La référence à des spécifications différentes comme celles du CNIG (PLU...) ou de la COVADIS est possible en complément. Concrètement, cela revient à créer une série de données à partir du gabarit de série de données fourni, par exemple, par la COVADIS, ou à comparer une série de données particulière au dit gabarit. Le degré et la spécification de référence forment un couple.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>20</id>
+		<ref>Degré de conformité</ref>
+		<txt>C’est le degré de conformité de la ressource par rapport à la spécification citée dans le champ dédié.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>21</id>
+		<ref>Spécifications INSPIRE</ref>
+		<txt>Cet élément donne la référence des règles de mise en oeuvre adoptées en vertu de l’article 7, paragraphe 1, de la directive 2007/2/CE ou des autres spécifications auxquelles la ressource est conforme. 1. Il est possible de renseigner la conformité à plusieurs spécifications de données. 2. Cette indication inclut au moins le titre et une date de référence (date de publication, date de dernière révision ou de création) des spécifications auxquelles la ressource est conforme.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>22</id>
+		<ref>Contacts</ref>
+		<txt>Contact lié à la ressource.
+Le point de contact, obligatoire, doit être en mesure de répondre aux questions ou demandes relatives à la donnée.</txt>
+		<image/>
+		<doc>http://georezo.net/wiki/main/donnees/inspire/aide_a_la_saisie_des_metadonnees_inspire#point_de_contact_des_metadonnees</doc>
+	</tooltip>
+	<tooltip>
+		<id>23</id>
+		<ref>Nouveau contact</ref>
+		<txt>Créer un nouveau contact dans le carnet d'adresses.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>24</id>
+		<ref>Fonction du contact</ref>
+		<txt>En plus du point de contact on détaille le rôle joué par l'organisation en charge des métadonnées.
+- Fournisseur : organisme ou personne qui délivre physiquement la donnée, soit de manière directe au destinataire, soit par l’intermédiaire d’un diffuseur
+- Gestionnaire : organisme ou personne responsable de la gestion et de la mise à jour de la donnée.
+- Propriétaire : organisme ou personne qui est propriétaire de la donnée et qui en détient les droits patrimoniaux.
+- Auteur : organisme ou personne qui a complété la donnée. Il en détient les droits moraux.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>25</id>
+		<ref>Enregistrer le profil</ref>
+		<txt>Vérifier que tous les champs soient bien remplis, enregistrer le profil et revenir à Metadator.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>26</id>
+		<ref>Annuler</ref>
+		<txt>Fermer le formulaire sans enregistrer et revenir à Metadator.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>30</id>
+		<ref>Dossier parent des données</ref>
+		<txt>Choisir le dossier dans lequel se trouve les données à traiter.
+Les sous-dossiers sont également explorés pris en compte.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>31</id>
+		<ref>Choix du profil</ref>
+		<txt>Choisir le profil (ou en créer un nouveau) à appliquer aux données qui vont être traitées.
+L'idée étant de compiler les informations non techniques des métadonnées (contacts, licences, descriptifs, historique, ...) 
+et de les appliquer à des lots de données.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>32</id>
+		<ref>Choix de la langue</ref>
+		<txt>Permet de changer la langue de l'interface.
+Les fichiers de langue sont facilement personnalisables et se trouvent dans  :
+*/locale/XX/lang_XX.xml où XX = le code langue (FR pour le français par ex)</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>33</id>
+		<ref>Export en Word</ref>
+		<txt>Génère une fiche de métadonnées au format HTML, convertie ensuite au format Microsoft Word.
+Uniquement disponible sous Windows (requiert Microsoft Office).
+Aperçu du rendu de la première page :</txt>
+		<image>data/img/modele_metadator_Wordp1.gif</image>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>34</id>
+		<ref>Export en Excel</ref>
+		<txt>Génère une fiche de métadonnées au format Excel (2003, .xls).
+Aperçu du rendu du premier onglet :</txt>
+		<image>data/img/modele_metadator_Excelp1.gif</image>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>35</id>
+		<ref>Export en XML 19139</ref>
+		<txt>Génère une fiche de métadonnées au format XML respectant la norme ISO 19139 (à plus de 80%).
+Elle est ensuite importable facilement dans les principaux catalogues (GeoNetwork, GéoSource, Isogeo, ...)
+Aperçu du rendu :</txt>
+		<image>data/img/modele_metadator_XML.gif</image>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>36</id>
+		<ref>Export en odt</ref>
+		<txt>Génère une fiche de métadonnées au format ODT (LibreOffice).
+Indépendant du système d'exploitation, aucune dépendance particulière requise.
+Aperçu du rendu :</txt>
+		<image>data/img/modele_metadator_ODT.gif</image>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>37</id>
+		<ref>Compilation en catalogue</ref>
+		<txt>Génère un fichier Word unique regroupant toutes les fiches crées au format WORD,
+en les indexant dans une table des matières.
+Aperçu du rendu de la table des matières :</txt>
+		<image>data/img/modele_metadator_CAT.gif</image>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>38</id>
+		<ref>Attributs récurrents</ref>
+		<txt>Constat : on travaille souvent avec les mêmes attributs et 
+INSPIRE impose également des modèles attributaires standardisés.
+Cet onglet permet donc de gérer les attributs (champs) rencontrés le plus souvent.
+Ajouter un attribut, indiquer la description à appliquer systématiquement et 
+si le calcul des statistiques est pertinent ou pas.
+Attention, l'option de la casse est en beta...</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>39</id>
+		<ref>Édition des attributs récurrents</ref>
+		<txt>Éditer un attribut récurrent existant ou en ajouter un nouveau.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>40</id>
+		<ref>Supprimer l'attribut</ref>
+		<txt>Supprime l'attribut récurrent sélectionné.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>41</id>
+		<ref>Sensible à la casse</ref>
+		<txt>Si l'option est active, la casse est strictement respectée</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+	<tooltip>
+		<id>42</id>
+		<ref>Calcul des statistiques</ref>
+		<txt>Indique s'il est pertinent que des statistiques de base (moyenne, médiane, occurences, etc) 
+soient calculées pour cet attribut.
+Si l'option est active, les statistiques sont calculées.
+Par défaut, les statistiques sont calculées pour tous les champs, sans distinction.</txt>
+		<image/>
+		<doc/>
+	</tooltip>
+</tooltips>

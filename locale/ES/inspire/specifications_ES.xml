@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specifications>
+  <specification>
+    <id>1</id>
+    <titre>No especificación de datos INSPIRE</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>2</id>
+    <titre>Especificación de datos INSPIRE para las unidades administrativas</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>3</id>
+    <titre>Especificación de datos INSPIRE para los predios del catastro</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>4</id>
+    <titre>Especificación de datos INSPIRE para las denominaciónes geográficas</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>5</id>
+    <titre>Especificación de datos INSPIRE para hidrografía</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>6</id>
+    <titre>Especificación de datos INSPIRE para los sitios protegidos</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>7</id>
+    <titre>Especificación de datos INSPIRE para la red de transporte</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>8</id>
+    <titre>Especificación de datos INSPIRE para las direcciones</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>9</id>
+    <titre>Especificación de datos INSPIRE para los sistemas de coordenadas</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+  <specification>
+    <id>10</id>
+    <titre>Especificación de datos INSPIRE para los sistemas de cobertura geográfica (malla)</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de création</typedate>
+  </specification>
+</specifications>

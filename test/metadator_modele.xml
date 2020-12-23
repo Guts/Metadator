@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<HTML lang="fr">
+<HEAD>
+<TITLE>Métadonnées de airports.shp</TITLE>
+<META CHARSET="UTF-8">
+<meta name="author" content="Utilisateur" >
+<meta name="revised" content="2012/10/17" >
+<meta name="description" content="Programme PACIVUR (Programme Andin de recherche et de formation sur la Vulnérabilité et les Risques en milieu urbain) de l'IRD (Institut de Recherche pour le Développement)
+" >
+<meta name="keywords" content="test,SIRAD,SEDAPAL,cadastre," >
+<meta name="generator" content="Metadator - Script de création automatisée de fiches de metadonnées - Version : 1.6" >
+</HEAD>
+	<BODY>
+		<table border="1" style="border-collapse: collapse" cellspacing="0">
+			<tr>
+				<td align="center" colspan="2" style="background:#F3F3F3"style = font-family:Calibri;font-size: 12pt;><br><b>Métadonnées de Airports</b><br><br></td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Nom du fichier</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;airports.shp</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Mots-clés thématiques</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;test ; SIRAD ; SEDAPAL ; cadastre ; </td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Mots-clés géographiques</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;Lima, Callao</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Description</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Cadre dans lequel la donnée a été créée</b></td>
+				<td style = font-family:Calibri;font-size: 11pt><p align = "justify">&nbsp;Programme PACIVUR (Programme Andin de recherche et de formation sur la Vulnérabilité et les Risques en milieu urbain) de l'IRD (Institut de Recherche pour le Développement)</p></td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Nombre d'objets</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;76</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Nombre d'attributs</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;11</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Date de l'information</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;18-11-2011</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Date de la dernière  actualisation</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;21-9-2012</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Source(s)</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;INEI 2007 ; IRD ; SIRAD 2010
+</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Diffusion</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;libre</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Responsable de la donnée</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;Frère TUCK (Hadas Cie), tuck.bro@barnsdale.re</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Point de contact</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;Robin Des BOIS (Hadas Cie), robin.hood@barnsdale.fr</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Site internet</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;<a href="http://www.geocatalogue.fr/" target="_blank">Catalogue</a></td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Type de géométrie</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;Point</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Échelle</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;1: 500000</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Précision</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;40000 m</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>&nbsp;Système de coordonnées</b></td>
+				<td style = font-family:Calibri;font-size: 11pt>&nbsp;Projection : Albers<br>Code EPSG : 4267</td>
+			</tr>
+			<tr>
+				<td style = font-family:Calibri;font-size: 11pt><b>	&nbsp;Emprise spatiale</b></td>
+				<td align="center" style = font-family:Calibri;font-size: 11pt>Max Y : 6502586.83<br>Min X : -4480198.52&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max X : 4615124.98<br> Min Y : 1433525.8</td align="center">
+			</tr>
+		</table>		<p style = font-family:Calibri;font-size: 11pt><b><br>
+LISTE DES ATTRIBUTS :</b></p>
+		<p style = font-family:Calibri;font-size: 11pt>			<br><br>			<b>1 - cat</b>			<br>			<b>Type :</b> Numérique (Entier)			<br>			<b>Longueur du champ :</b> 10			<br>			<b>Description:</b> DESCRIPTION À COMPLÉTER			<br>			<b>Statistiques de base :</b>			<ul style = font-family:Calibri;font-size: 11pt>					<li>Somme : </li>					<li>Minimum : 1</li>					<li>Maximum : 76</li>					<li>Moyenne : 38.5</li>					<li>Médiane : 38.5</li>					<li>Écart-type : 21.94</li>			</ul>			<b>Valeurs (fréquences) :</b> Valeurs uniques (nb. d'objets = nb. de valeurs différentes).
+			<br>_______________________________________________________________________			<br><br>			<b>2 - NA3</b>			<br>			<b>Type :</b> Texte			<br>			<b>Longueur du champ :</b> 80			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Modalités (occurrences) : </b> Valeurs uniques (nb. d'objets = nb. de valeurs différentes).			<br>_______________________________________________________________________			<br><br>			<b>3 - ELEV</b>			<br>			<b>Type :</b> Numérique (Réel)			<br>			<b>Longueur du champ :</b> 32			<br>			<b>Précision :</b> 3			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Statistiques de base :</b>			<ul style = font-family:Calibri;font-size: 11pt>					<li>Somme : </li>					<li>Minimum : 9.0</li>					<li>Maximum : 1569.0</li>					<li>Moyenne : 299.45</li>					<li>Médiane : 109.5</li>					<li>Écart-type : 408.87</li>			</ul>			<b>Valeurs (fréquences) :</b> 57 valeurs différentes. Voici les 20 plus représentées :
+			<ul style = font-family:Calibri;font-size: 11pt>					<li>18.0 (4)</li>					<li>78.0 (4)</li>					<li>12.0 (3)</li>					<li>108.0 (3)</li>					<li>9.0 (2)</li>					<li>21.0 (2)</li>					<li>282.0 (2)</li>					<li>30.0 (2)</li>					<li>39.0 (2)</li>					<li>51.0 (2)</li>					<li>66.0 (2)</li>					<li>87.0 (2)</li>					<li>96.0 (2)</li>					<li>129.0 (1)</li>					<li>135.0 (1)</li>					<li>264.0 (1)</li>					<li>138.0 (1)</li>					<li>1167.0 (1)</li>					<li>408.0 (1)</li>					<li>345.0 (1)</li>			</ul>			<br>_______________________________________________________________________			<br><br>			<b>4 - F_CODE</b>			<br>			<b>Type :</b> Texte			<br>			<b>Longueur du champ :</b> 80			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Modalités (occurrences) : </b> une seule valeur commune à tous les objets : Airport/Airfield			<br>_______________________________________________________________________			<br><br>			<b>5 - IKO</b>			<br>			<b>Type :</b> Texte			<br>			<b>Longueur du champ :</b> 80			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Modalités (occurrences) : </b> 42 modalités différentes. Voici les 20 plus importantes :			<ul style = font-family:Calibri;font-size: 11pt>					<li>PA (35)</li>
+					<li>PAOR (1)</li>
+					<li>PAKN (1)</li>
+					<li>PAOT (1)</li>
+					<li>PAIL (1)</li>
+					<li>PAEN (1)</li>
+					<li>PAMR (1)</li>
+					<li>PAED (1)</li>
+					<li>PAEH (1)</li>
+					<li>PAEI (1)</li>
+					<li>PATA (1)</li>
+					<li>PATC (1)</li>
+					<li>PATK (1)</li>
+					<li>PATL (1)</li>
+					<li>PABT (1)</li>
+					<li>PAFR (1)</li>
+					<li>PANT (1)</li>
+					<li>PAMC (1)</li>
+					<li>PABE (1)</li>
+					<li>PAFB (1)</li>
+			</ul>
+			<br>_______________________________________________________________________			<br><br>			<b>6 - NAME</b>			<br>			<b>Type :</b> Texte			<br>			<b>Longueur du champ :</b> 80			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Modalités (occurrences) : </b> Valeurs uniques (nb. d'objets = nb. de valeurs différentes).			<br>_______________________________________________________________________			<br><br>			<b>7 - USE</b>			<br>			<b>Type :</b> Texte			<br>			<b>Longueur du champ :</b> 80			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Modalités (occurrences) : </b> 4 modalités différentes.			<ul style = font-family:Calibri;font-size: 11pt>					<li>Joint Military/Civilian (3)</li>
+					<li>Military (8)</li>
+					<li>Civilian/Public (15)</li>
+					<li>Other (50)</li>
+			</ul>
+			<br>_______________________________________________________________________			<br><br>			<b>8 - CREATION</b>			<br>			<b>Type :</b> Date			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Date la plus ancienne : </b> 11-05-1979			<br>			<b>Date la plus récente : </b> 26-10-1986			<br>			<b>Intervalle maximum : </b> 7 ans, 5 mois, 15 jours.			<br>			<b>Modalités (occurrences) : </b> 4 modalités différentes.			<ul style = font-family:Calibri;font-size: 11pt>					<li>1985/08/09 (12)</li>
+					<li>1979/05/11 (18)</li>
+					<li>1986/10/26 (23)</li>
+					<li>1982/09/09 (23)</li>
+			</ul>
+			<br>_______________________________________________________________________			<br><br>			<b>9 - PASSENGERS</b>			<br>			<b>Type :</b> Numérique (Entier)			<br>			<b>Longueur du champ :</b> 5			<br>			<b>Description:</b> DESCRIPTION À COMPLÉTER			<br>			<b>Statistiques de base :</b>			<ul style = font-family:Calibri;font-size: 11pt>					<li>Somme : </li>					<li>Nombre de valeurs nulles :  : 7 (soit 9.21% du total)</li>					<li>Minimum : 0</li>					<li>Maximum : 360</li>					<li>Moyenne : 164.49</li>					<li>Médiane : 177.0</li>					<li>Écart-type : 106.63</li>			</ul>			<b>Valeurs (fréquences) :</b> 67 valeurs différentes.
+			<ul style = font-family:Calibri;font-size: 11pt>					<li>243 (2)</li>					<li>238 (2)</li>					<li>224 (1)</li>					<li>4 (1)</li>					<li>150 (1)</li>					<li>260 (1)</li>					<li>135 (1)</li>					<li>9 (1)</li>					<li>138 (1)</li>					<li>141 (1)</li>					<li>15 (1)</li>					<li>272 (1)</li>					<li>145 (1)</li>					<li>146 (1)</li>					<li>19 (1)</li>					<li>149 (1)</li>					<li>22 (1)</li>					<li>281 (1)</li>					<li>282 (1)</li>					<li>185 (1)</li>			</ul>			<br>_______________________________________________________________________			<br><br>			<b>10 - AIRPLANES</b>			<br>			<b>Type :</b> Numérique (Entier)			<br>			<b>Longueur du champ :</b> 4			<br>			<b>Description:</b> DESCRIPTION À COMPLÉTER			<br>			<b>Statistiques de base :</b>			<ul style = font-family:Calibri;font-size: 11pt>					<li>Somme : </li>					<li>Minimum : 13</li>					<li>Maximum : 27</li>					<li>Moyenne : 15.28</li>					<li>Médiane : 14.0</li>					<li>Écart-type : 2.83</li>			</ul>			<b>Valeurs (fréquences) :</b> 12 valeurs différentes.
+			<ul style = font-family:Calibri;font-size: 11pt>					<li>19 (1)</li>					<li>20 (1)</li>					<li>23 (1)</li>					<li>24 (1)</li>					<li>27 (1)</li>					<li>18 (3)</li>					<li>21 (3)</li>					<li>17 (5)</li>					<li>15 (10)</li>					<li>16 (11)</li>					<li>14 (13)</li>					<li>13 (26)</li>			</ul>			<br>_______________________________________________________________________			<br><br>			<b>11 - ENDOFLIFE</b>			<br>			<b>Type :</b> Date			<br>			<b>Description :</b> DESCRIPTION À COMPLÉTER			<br>			<b>Date la plus ancienne : </b> 11-05-1979			<br>			<b>Date la plus récente : </b> 26-10-1986			<br>			<b>Intervalle maximum : </b> 7 ans, 5 mois, 15 jours.			<br>			<b>Modalités (occurrences) : </b> 4 modalités différentes.			<ul style = font-family:Calibri;font-size: 11pt>					<li>1985/08/09 (12)</li>
+					<li>1979/05/11 (18)</li>
+					<li>1986/10/26 (23)</li>
+					<li>1982/09/09 (23)</li>
+			</ul>
+			<br>_______________________________________________________________________	<p>
+	</BODY>
+</HTML>

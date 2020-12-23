@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keywords>
+<!-- Source : http://www.eionet.europa.eu/gemet/inspire_themes?langcode=fr -->
+<!-- Annexe 1 -->
+	<keyword>
+		<intitule>Systemy odniesienia za pomocą współrzędnych</intitule>
+		<traduction>Coordinate reference systems</traduction>
+		<annexe>01</annexe>
+		<subtem>01</subtem>
+		<description>Systemy dla jednoznacznego przestrzennego odnoszenia informacji przestrzennej za pomocą współrzędnych x, y, z lub za pomocą szerokości, długości lub wysokości na podstawie geodezyjnego poziomego i pionowego układu odniesienia.</description>
+	</keyword>
+	<keyword>
+		<intitule>Systemy siatek geograficznych</intitule>
+		<traduction>Geographical grid systems</traduction>
+		<annexe>01</annexe>
+		<subtem>02</subtem>
+		<description>Zharmonizowana wielorozdzielcza siatka o wspólnym punkcie początkowym i znormalizowanym położeniu oraz wielkości pól siatki.</description>
+	</keyword>
+	<keyword>
+		<intitule>Nazwy geograficzne</intitule>
+		<traduction>Geographical names</traduction>
+		<annexe>01</annexe>
+		<subtem>03</subtem>
+		<description>Nazwy obszarów, regionów, miejscowości, miast, przedmieść lub osiedli, albo każdy inny obiekt geograficzny lub topograficzny o znaczeniu publicznym lub historycznym.</description>
+	</keyword>
+	<keyword>
+		<intitule>Jednostki administracyjne</intitule>
+		<traduction>Administrative units</traduction>
+		<annexe>01</annexe>
+		<subtem>04</subtem>
+		<description>Jednostki administracyjne, dzielące obszary, na których państwa członkowskie mają lub wykonują uprawnienia jurysdykcyjne, dla celów sprawowania władzy na poziomie lokalnym, regionalnym i krajowym, oddzielone granicami administracyjnymi. </description>
+	</keyword>
+	<keyword>
+		<intitule>Adresy</intitule>
+		<traduction>Addresses</traduction>
+		<annexe>01</annexe>
+		<subtem>05</subtem>
+		<description>Lokalizacja nieruchomości na podstawie danych adresowych, zazwyczaj nazwy ulicy, numeru budynku, kodu pocztowego.</description>
+	</keyword>
+	<keyword>
+		<intitule>Działki katastralne</intitule>
+		<traduction>Cadastral parcels</traduction>
+		<annexe>01</annexe>
+		<subtem>06</subtem>
+		<description>Obszary określone na podstawie rejestrów katastralnych lub ich odpowiedników. </description>
+	</keyword>
+	<keyword>
+		<intitule>Sieci transportowe</intitule>
+		<traduction>Transport networks</traduction>
+		<annexe>01</annexe>
+		<subtem>07</subtem>
+		<description>Sieci transportu drogowego, kolejowego, lotniczego i wodnego oraz związana z nimi infrastruktura. Obejmują połączenia pomiędzy różnymi sieciami. Zalicza się do nich także transeuropejską sieć transportową w rozumieniu decyzji nr 1692/96/WE Parlamentu Europejskiego i Rady z dnia 23 czerwca 1996 r. w sprawie wspólnotowych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej wraz z jej przyszłymi zmianami. </description>
+	</keyword>
+	<keyword>
+		<intitule>Hydrografia</intitule>
+		<traduction>Hydrography</traduction>
+		<annexe>01</annexe>
+		<subtem>08</subtem>
+		<description>Elementy hydrograficzne, w tym obszary morskie lub inne części wód oraz związane z nimi obiekty, łącznie z dorzeczami i zlewniami. W odpowiednich przypadkach zgodnie z definicjami zawartymi w dyrektywie 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającej ramy wspólnotowego działania w dziedzinie polityki wodnej oraz w formie sieci. </description>
+	</keyword>
+	<keyword>
+		<intitule>Obszary chronione</intitule>
+		<traduction>Protected sites</traduction>
+		<annexe>01</annexe>
+		<subtem>09</subtem>
+		<description>Obszar wyznaczony lub zarządzany w ramach prawa międzynarodowego, wspólnotowego lub państw członkowskich, w celu osiągnięcia szczególnych celów ochrony.</description>
+	</keyword>
+<!-- Annexe 2 -->
+	<keyword>
+		<intitule>Ukształtowanie terenu</intitule>
+		<traduction>Elevation</traduction>
+		<annexe>02</annexe>
+		<subtem>01</subtem>
+		<description>Cyfrowe modele wysokościowe powierzchni lądu, lodu i oceanu. Obejmuje również wysokość topograficzną terenu, batymetrię oraz linię brzegową.</description>
+	</keyword>
+	<keyword>
+		<intitule>Użytkowanie terenu</intitule>
+		<traduction>Land cover</traduction>
+		<annexe>02</annexe>
+		<subtem>02</subtem>
+		<description>Fizyczne i biologiczne użytkowanie powierzchni Ziemi, włączając w to powierzchnie sztuczne, obszary rolnicze, lasy, obszary (pół-)naturalne, tereny podmokłe, akweny.</description>
+	</keyword>
+	<keyword>
+		<intitule>Sporządzanie ortoobrazów</intitule>
+		<traduction>Orthoimagery</traduction>
+		<annexe>02</annexe>
+		<subtem>03</subtem>
+		<description>Dane obrazowe powierzchni Ziemi posiadające odniesienie geograficzne, pochodzące z rejestracji z pokładu satelity lub samolotu.</description>
+	</keyword>
+	<keyword>
+		<intitule>Geologia</intitule>
+		<traduction>Geology</traduction>
+		<annexe>02</annexe>
+		<subtem>04</subtem>
+		<description>Geologia charakteryzowana na podstawie składu i struktury. Obejmuje podłoże skalne, warstwy wodonośne i geomorfologię.</description>
+	</keyword>
+<!-- Annexe 3 -->
+	<keyword>
+		<intitule>Jednostki statystyczne</intitule>
+		<traduction>Statistical units</traduction>
+		<annexe>03</annexe>
+		<subtem>01</subtem>
+		<description>Jednostki służące do rozpowszechniania lub wykorzystywania informacji statystycznych.</description>
+	</keyword>
+	<keyword>
+		<intitule>Budynki</intitule>
+		<traduction>Buildings</traduction>
+		<annexe>03</annexe>
+		<subtem>02</subtem>
+		<description>Położenie geograficzne budynków. </description>
+	</keyword>
+	<keyword>
+		<intitule>Gleba</intitule>
+		<traduction>Soil</traduction>
+		<annexe>03</annexe>
+		<subtem>03</subtem>
+		<description>Gleby i podglebie charakteryzowane na podstawie głębokości, tekstury, struktury i zawartości cząstek oraz materiału organicznego, kamienistości, erozji, a w odpowiednich przypadkach na podstawie przeciętnego nachylenia oraz przewidywanej zdolności zatrzymywania wody.</description>
+	</keyword>
+	<keyword>
+		<intitule>Zagospodarowanie przestrzenne</intitule>
+		<traduction>Land use</traduction>
+		<annexe>03</annexe>
+		<subtem>04</subtem>
+		<description>Terytorium charakteryzowane ze względu na jego obecny lub przyszły wymiar funkcjonalny lub przeznaczenie społeczno-gospodarcze (np. mieszkaniowe, przemysłowe, handlowe, rolnicze, leśne, wypoczynkowe). </description>
+	</keyword>
+	<keyword>
+		<intitule>Zdrowie i bezpieczeństwo ludzi</intitule>
+		<traduction>Human health and safety</traduction>
+		<annexe>03</annexe>
+		<subtem>05</subtem>
+		<description>Rozmieszczenie geograficzne występowania patologii chorobowych (alergii, nowotworów, chorób układu oddechowego itd.), informacje dotyczące wpływu na zdrowie (biomarkery, spadek płodności, epidemie) lub dobre samopoczucie ludzi (zmęczenie, stres itd.) związane bezpośrednio (zanieczyszczenie powietrza, chemikalia, zubożenie warstwy ozonowej, hałas itd.) lub pośrednio (pożywienie, organizmy zmodyfikowane genetycznie itd.) z jakością środowiska.</description>
+	</keyword>
+	<keyword>
+		<intitule>Usługi użyteczności publicznej i służby państwowe</intitule>
+		<traduction>Utility and governmental services</traduction>
+		<annexe>03</annexe>
+		<subtem>06</subtem>
+		<description>Obejmuje instalacje użyteczności publicznej takie jak: kanalizacja, zarządzanie odpadami, dostawa energii i dostawa wody, administracyjne i społeczne służby państwowe lub samorządowe, takie jak: administracja publiczna, obiekty ochrony cywilnej, szkoły i szpitale.</description>
+	</keyword>
+	<keyword>
+		<intitule>Urządzenia do monitorowania środowiska</intitule>
+		<traduction>Environmental monitoring facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>07</subtem>
+		<description>Lokalizacja i funkcjonowanie urządzeń do monitorowania środowiska obejmują obserwację i pomiary emisji, stanu zasobów środowiska i innych parametrów ekosystemu (różnorodności biologicznej, warunków ekologicznych wegetacji itd.) przez organy publiczne lub w ich imieniu.</description>
+	</keyword>
+	<keyword>
+		<intitule>Obiekty produkcyjne i przemysłowe</intitule>
+		<traduction>Production and industrial facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>08</subtem>
+		<description>Zakłady przemysłowe, w tym obiekty objęte dyrektywą 96/61/WE z dnia 24 września 1996 r. dotycząca zintegrowanego zapobiegania zanieczyszczeniom i ich kontroli oraz urządzenia poboru wody, miejsca wydobycia i składowiska.</description>
+	</keyword>
+	<keyword>
+		<intitule>Obiekty rolnicze oraz akwakultury</intitule>
+		<traduction>Agricultural and aquaculture facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>09</subtem>
+		<description>Urządzenia rolnicze oraz urządzenia produkcyjne (łącznie z systemami nawadniania, szklarniami i stajniami).</description>
+	</keyword>
+	<keyword>
+		<intitule>Rozmieszczenie ludności – demografia</intitule>
+		<traduction>Population distribution — demography</traduction>
+		<annexe>03</annexe>
+		<subtem>10</subtem>
+		<description>Geograficzne rozmieszczenie ludności, łącznie z poziomami aktywności i charakterystyką ludności, pogrupowanej według siatki geograficznej, regionu, jednostki administracyjnej lub innej jednostki analitycznej.</description>
+	</keyword>
+	<keyword>
+		<intitule>Gospodarowanie obszarem/strefy ograniczone/regulacyjne oraz jednostki sprawozdawcze</intitule>
+		<traduction>Area management/restriction/regulation zones and reporting units</traduction>
+		<annexe>03</annexe>
+		<subtem>11</subtem>
+		<description>Obszary zarządzane, regulowane lub wykorzystywane do celów sprawozdawczych na poziomie międzynarodowym, europejskim, krajowym, regionalnym i lokalnym. Obejmują również wysypiska śmieci, obszary o ograniczonym dostępie wokół ujęć wody pitnej, strefy zagrożone przez azotany, uregulowane drogi wodne na morzach lub wodach śródlądowych o dużej powierzchni, obszary przeznaczone pod wysypiska śmieci, strefy ograniczeń hałasu, obszary wymagające zezwolenia na poszukiwania i wydobycie, obszary dorzeczy, odpowiednie jednostki sprawozdawcze i obszary zarządzania strefą brzegową.</description>
+	</keyword>
+	<keyword>
+		<intitule>Strefy zagrożenia naturalnego</intitule>
+		<traduction>Natural risk zones</traduction>
+		<annexe>03</annexe>
+		<subtem>12</subtem>
+		<description>Obszary zagrożone charakteryzowane na podstawie zagrożeń naturalnych (wszystkie zjawiska atmosferyczne, hydrologiczne, sejsmiczne, wulkaniczne oraz pożary, które, ze względu na swoją lokalizację, dotkliwość i częstotliwość mogą wywierać poważny wpływ na społeczeństwo), np. powodzie, osunięcia ziemi i osiadanie gruntu, lawiny, pożary lasów, trzęsienia ziemi, wybuchy wulkanów.</description>
+	</keyword>
+	<keyword>
+		<intitule>Warunki atmosferyczne</intitule>
+		<traduction>Atmospheric conditions</traduction>
+		<annexe>03</annexe>
+		<subtem>13</subtem>
+		<description>Warunki fizyczne w atmosferze. Obejmują dane przestrzenne oparte na pomiarach, modelach lub na kombinacji tych dwóch elementów, a także lokalizacje pomiarów. </description>
+	</keyword>
+	<keyword>
+		<intitule>Warunki meteorologiczno-geograficzne</intitule>
+		<traduction>Meteorological geographical features</traduction>
+		<annexe>03</annexe>
+		<subtem>14</subtem>
+		<description>Warunki atmosferyczne i ich pomiary; opad atmosferyczny, temperatura, ewapotranspiracja, prędkość i kierunek wiatru.</description>
+	</keyword>
+	<keyword>
+		<intitule>Warunki oceanograficzno-geograficzne</intitule>
+		<traduction>Oceanographic geographical features</traduction>
+		<annexe>03</annexe>
+		<subtem>15</subtem>
+		<description>Warunki fizyczne oceanów (prądy, zasolenie, wysokość fal itd.).</description>
+	</keyword>
+	<keyword>
+		<intitule>Regiony morskie</intitule>
+		<traduction>Sea regions</traduction>
+		<annexe>03</annexe>
+		<subtem>16</subtem>
+		<description>Warunki fizyczne mórz i akwenów słonowodnych w podziale na regiony i subregiony o wspólnych cechach.</description>
+	</keyword>
+	<keyword>
+		<intitule>Regiony biogeograficzne</intitule>
+		<traduction>Bio-geographical regions</traduction>
+		<annexe>03</annexe>
+		<subtem>17</subtem>
+		<description>Obszary o stosunkowo jednorodnych warunkach ekologicznych i o wspólnych cechach.</description>
+	</keyword>
+	<keyword>
+		<intitule>Siedliska i obszary przyrodniczo jednorodne</intitule>
+		<traduction>Habitats and biotopes</traduction>
+		<annexe>03</annexe>
+		<subtem>18</subtem>
+		<description>Obszary geograficzne odznaczające się szczególnymi warunkami przyrodniczymi, procesami, strukturą i (podtrzymującymi życie) funkcjami, które fizycznie umożliwiają egzystencję żyjącym na nich organizmom. Obejmują obszary lądowe i wodne wyróżniające się cechami geograficznymi, abiotycznymi i biotycznymi, czy to w całości naturalne czy też półnaturalne.</description>
+	</keyword>
+	<keyword>
+		<intitule>Rozmieszczenie gatunków</intitule>
+		<traduction>Species distribution</traduction>
+		<annexe>03</annexe>
+		<subtem>19</subtem>
+		<description>Geograficzne rozmieszczenie występowania gatunków zwierząt i roślin pogrupowanych według siatki geograficznej, regionu, jednostki administracyjnej lub innej jednostki analitycznej.</description>
+	</keyword>
+	<keyword>
+		<intitule>Zasoby energetyczne</intitule>
+		<traduction>Energy resources</traduction>
+		<annexe>03</annexe>
+		<subtem>20</subtem>
+		<description>Zasoby energii, w tym węglowodory, energia wodna, bioenergia, energia słoneczna, wiatrowa itd., w odpowiednich przypadkach łącznie z informacjami dotyczącymi głębokości/wysokości i rozmiarów danych zasobów.</description>
+	</keyword>
+	<keyword>
+		<intitule>Zasobys mineralne</intitule>
+		<traduction>Mineral resources</traduction>
+		<annexe>03</annexe>
+		<subtem>21</subtem>
+		<description>Zasoby mineralne, w tym rudy metali, minerały przemysłowe itd., w odpowiednich przypadkach łącznie z informacjami dotyczącymi głębokości/wysokości i rozmiarów danych zasobów.</description>
+	</keyword>
+</keywords>

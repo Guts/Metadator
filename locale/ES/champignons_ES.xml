@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<champignons>
+	<champ>
+		<intitule>ID</intitule>
+		<description>Código único de identificación del objeto</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>ELEV</intitule>
+		<description>Altura sobre el nivel del mar (en metros)</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+</champignons>

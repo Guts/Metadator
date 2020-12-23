@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diffusions>
+	<opened>
+		<licence>
+			<type>free</type>
+			<name>Pas de licence</name>
+			<description>Aucune condition ni licence.</description>
+			<norm>none</norm>
+			<doc/>
+		</licence>
+		<licence>
+			<type>free</type>
+			<name>Licence IGN (service public)</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>frIGNpub</norm>
+			<doc>http://professionnels.ign.fr/licence-api-geoportail-pour-mission-de-service-public</doc>
+		</licence>
+		<licence>
+			<type>free</type>
+			<name>Licence Ouverte (LO)</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>loEtalab</norm>
+			<doc>http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html</doc>
+		</licence>
+		<licence>
+			<type>free</type>
+			<name>Open Database (ODbL)</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>odbl</norm>
+			<doc>http://fr.wikipedia.org/wiki/Open_Database_License</doc>
+		</licence>
+		<licence>
+			<type>free</type>
+			<name>Convention de partenariat</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>partner</norm>
+			<doc/>
+		</licence>
+		<licence>
+			<type>commercial</type>
+			<name>Licence commerciale</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>commercialLicense</norm>
+			<doc/>
+		</licence>
+		<licence>
+			<type>commercial</type>
+			<name>Licence IGN (payante)</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>frIGNpay</norm>
+			<doc>http://professionnels.ign.fr/tarifs-conditions</doc>
+		</licence>
+	</opened>
+	<closed>
+		<restriction>
+			<type>legal</type>
+			<name>Droit d'auteur</name>
+			<description>Il existe un copyright associé à la ressource.</description>
+			<norm>Copyright</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>legal</type>
+			<name>Brevet</name>
+			<description>Il existe un brevet lié à la ressource.</description>
+			<norm>Brevet</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>legal</type>
+			<name>Brevet en cours</name>
+			<description>Un dépôt de brevet lié à la ressource a été réalisé mais le brevet n’a pas encore été obtenu.</description>
+			<norm>Brevet en cours</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>legal</type>
+			<name>Marque</name>
+			<description>Il existe une marque déposée liée à la ressource.</description>
+			<norm>Marque déposée</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>legal</type>
+			<name>Propriété intellectuelle</name>
+			<description>Les droits de propriété intellectuelle peuvent contraindre l’accès à la ressource.</description>
+			<norm>Droit de propriété intellectuelle</norm>
+			<doc/>
+		</restriction>			
+		<restriction>
+			<type>security</type>
+			<name>Confidentiel</name>
+			<description>Classifiication Défense : Confidentiel</description>
+			<norm>Droit de propriété intellectuelle</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>security</type>
+			<name>Restreint</name>
+			<description>Classifiication Défense : Restreint</description>
+			<norm>Droit de propriété intellectuelle</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>security</type>
+			<name>Secret</name>
+			<description>Classifiication Défense : Secret</description>
+			<norm>Droit de propriété intellectuelle</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>security</type>
+			<name>Top secret</name>
+			<description>Classifiication Défense : Top secret</description>
+			<norm>Droit de propriété intellectuelle</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>01</name>
+			<description>La confidentialité des travaux des autorités publiques, lorsque cette confidentialité est prévue par la loi.</description>
+			<norm>L124-4-I-1 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.a)</norm>
+			<doc>http://goo.gl/FpbxFH</doc>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>02</name>
+			<description>Les relations internationales, la sécurité publique ou la défense nationale.</description>
+			<norm>L124-5-II-1 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.b)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>03</name>
+			<description>La bonne marche de la justice, la possibilité pour toute personne d’être jugée équitablement ou la capacité d’une autorité publique d’effectuer une enquête d’ordre pénal ou disciplinaire.</description>
+			<norm>L124-5-II-2 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.c)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>04</name>
+			<description>La confidentialité des informations commerciales ou industrielles, lorsque cette confidentialité est prévue par la législation nationale ou communautaire afin de protéger un intérêt économique légitime, notamment l’intérêt public lié à la préservation de la confidentialité des statistiques et du secret fiscal.</description>
+			<norm>L124-4-I-1 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.d)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>05</name>
+			<description>Les droits de propriété intellectuelle.</description>
+			<norm>L124-5-II-3 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.e)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>06</name>
+			<description>La confidentialité des données à caractère personnel et/ou des fichiers concernant une personne physique lorsque cette personne n’a pas consenti à la divulgation de ces informations au public, lorsque la confidentialité de ce type d’information est prévue par la législation nationale ou communautaire.</description>
+			<norm>L124-4-I-1 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.f)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>07</name>
+			<description>Les intérêts ou la protection de toute personne qui a fourni les informations demandées sur une base volontaire sans y être contrainte par la loi ou sans que la loi puisse l’y contraindre, à moins que cette personne n’ait consenti à la divulgation de ces données.</description>
+			<norm>L124-4-I-3 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.g)</norm>
+			<doc/>
+		</restriction>
+		<restriction>
+			<type>environment</type>
+			<name>08</name>
+			<description>La protection de l’environnement auquel ces informations ont trait, comme par exemple la localisation d’espèces rares.</description>
+			<norm>L124-4-I-2 du code de l’environnement (Directive 2007/2/CE (INSPIRE), Article 13.1.h)</norm>
+			<doc/>
+		</restriction>
+	</closed>
+</diffusions>
+<!-- 		<diffusion>
+			<type>global</type>
+			<name>Diffusion autorisée</name>
+			<norm>diffAut</norm>
+			<insp/>
+			<doc/>
+		</diffusion>
+		<diffusion>
+			<type>global</type>
+			<name>Limitation(s) à l'accès public</name>
+			<norm>otherConstraints</norm>
+			<doc/>
+		</diffusion>
+		<diffusion>
+			<type>global</type>
+			<name>Accès et utilisation de la ressource </name>
+			<norm>useLimitation</norm>
+			<doc/>
+		</diffusion> -->

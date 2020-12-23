@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<places>
+	<geokeyword>
+		<name>Lima</name>
+		<description>city</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Peru</name>
+		<description>country</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Europe</name>
+		<description>continent</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Bordeaux</name>
+		<description>city</description>
+	</geokeyword>
+</places>

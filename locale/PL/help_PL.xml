@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bullaides>
+	<aide>
+		<id>1</id>
+		<ref>Tytuł profil</ref>
+		<texte>Wpisz tutaj tytuł nowego profilu: nie powinien zawierać znaków specjalnych (espace, accents, #, ~, ?, etc.).</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>2</id>
+		<ref>Remplissage automatique depuis un profil existant</ref>
+		<texte>Permet de pré-remplir tous le formulaire du nouveau profil à partir des données d'un profil déjà existant : choisissez un profil déjà existant dans la liste déroulante puis cliquez sur le bouton "Ou remplir les champs avec ce profil".</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>3</id>
+		<ref>Présentation globale des données.</ref>
+		<texte>Bref résumé narratif du cadre dans lequel ont été créées les données sur lesquelles le profil va être appliqué.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>4</id>
+		<ref>Généalogie : sources et historiques</ref>
+		<texte>La généalogie fait état de l’historique du traitement et/ou de la qualité générale des données. Elle peut inclure une information indiquant si la série de données a été validée ou soumise à un contrôle de qualité, s’il s’agit de la version officielle (dans le cas où il existe plusieurs versions) et si elle a une valeur légale.Il s’agit d’apporter une description de l’histoire du jeu de données, des moyens, procédures ou traitements informatiques mis en oeuvre. La date ou la version de la donnée source est également un élément utile. Un lien vers une ressource documentaire externe (ce peut être un PDF) décrivant par exemple un processus de transformation, pourra être inséré.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>5</id>
+		<ref>Thèmes INSPIRE</ref>
+		<texte>Choisir les thèmes INSPIRE correspondants aux données : en double-cliquant ou en sélectionnant puis en cliquant sur les boutons.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>6</id>
+		<ref>Mots-clés personnalisés</ref>
+		<texte>ajouter un ou plusieurs mots clés (un seul par ligne),soit par saisie libre, soit \n\
+        en les sélectionnant dans le menu déroulant. Cette \n\
+        zone est importante car elle permet à l'outil de recherche de votre outil de catalogage \n\
+        de retrouver votre donnée plus facilement.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>7</id>
+		<ref>Ajouter un nouveau mot-clé</ref>
+		<texte>Taper le mot-clé et une courte description. Il sera ajouté à la fois au profil et à la fois au fichier des mots-clés. Ainsi il sera présent dans la liste à la création du prochain profil de métadonnnées pour plus de commodité.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>8</id>
+		<ref>Supprimer le mot-clé</ref>
+		<texte>Supprime définitivement le mot-clé sélectionné, à la fois de la liste mais aussi du fichier des mots-clés. Pratique pour les mots-clés entrés avec une faute de frappe par exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>9</id>
+		<ref>Mot-clé de localisation</ref>
+		<texte>Indiquer le lieu concerné par les données. Séparer les lieux par une virgule comme dans l'exemple. Ne pas faire une liste, 2 ou 3 lieux sont largement suffisants.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>10</id>
+		<ref>Mot-clé de localisation</ref>
+		<texte>Indiquer le lieu concerné par les données. Séparer les lieux par une virgule comme dans l'exemple. Ne pas faire une liste, 2 ou 3 lieux sont largement suffisants.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>11</id>
+		<ref>Site internet</ref>
+		<texte>Entre l'adresse du site web de référence des données, que ce soit vers un catalogue, une plate-forme de téléchargement ou simplement le ou le blog en lien avec les données.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>12</id>
+		<ref>Intitulé du lien web</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>13</id>
+		<ref>Echelle</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>14</id>
+		<ref>Précision</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>15</id>
+		<ref>Rythme d'actualisation</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>16</id>
+		<ref>Restrictions de diffusion</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>17</id>
+		<ref>Langue de la donnée</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>18</id>
+		<ref>Langue de la métadonnée</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>19</id>
+		<ref>Conformité INSPIRE</ref>
+		<texte>Les exigences de conformité seront remplies au moyen des éléments de métadonnées « spécification » et « degré ». La conformité est une déclaration de la seule responsabilité du producteur et il n’est pas prévu de contrôler, en France, cette déclaration. Une série de données conforme remplit toutes les conditions posées par la spécification visée (voir VIII.1 Spécification). Ces deux éléments de métadonnées (spécification et degré) expriment la conformité des données (et non des métadonnées !) à une spécification. La première exigence de conformité vise la mise en oeuvre des règlements européens dits d’interopérabilité. La référence à des spécifications différentes comme celles du CNIG (PLU...) ou de la COVADIS est possible en complément. Concrètement, cela revient à créer une série de données à partir du gabarit de série de données fourni, par exemple, par la COVADIS, ou à comparer une série de données particulière au dit gabarit. Le degré et la spécification de référence forment un couple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>20</id>
+		<ref>Degré de conformité</ref>
+		<texte>C’est le degré de conformité de la ressource par rapport à la spécification citée dans le champ dédié.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>21</id>
+		<ref>Spécification INSPIRE</ref>
+		<texte>Cet élément donne la référence des règles de mise en oeuvre adoptées en vertu de l’article 7, paragraphe 1, de la directive 2007/2/CE ou des autres spécifications auxquelles la ressource est conforme. 1. Il est possible de renseigner la conformité à plusieurs spécifications de données. 2. Cette indication inclut au moins le titre et une date de référence (date de publication, date de dernière révision ou de création) des spécifications auxquelles la ressource est conforme.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>22</id>
+		<ref>Contacts</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>23</id>
+		<ref>Recopier les données de contact</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>24</id>
+		<ref>Fonction du contact</ref>
+		<texte>Nom du lien qui apparaîtra au lieu de l'adresse URL complète. Plus élégant, évite les adresses à rallonge et permet de donner une première indication sur le type de lien. Doit donc être court et évocateur comme dans l'exemple.</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>25</id>
+		<ref>Enregistrer le profil</ref>
+		<texte>Vérifie que tous les champs soient bien remplis, enregistre le profil et revient à la fenêtre de traitement. Pensez à actualiser !</texte>
+		<image></image>
+	</aide>
+	<aide>
+		<id>26</id>
+		<ref>Anulować</ref>
+		<texte>Zamknąć formularz bez zapisywania i powrócić do początkowego strona.</texte>
+		<image></image>
+	</aide>
+</bullaides>
+		

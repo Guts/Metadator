@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diffusions>
+	<diffusion>
+		<name>Diffusion authorized</name>
+		<norm>diffAut</norm>
+		<doc/>
+	</diffusion>
+	<diffusion>
+		<name>Other restrictions and legal prerequisites for accessing and using the resource or metadata</name>
+		<norm>otherConstraints</norm>
+		<doc/>
+	</diffusion>
+	<diffusion>
+		<name>Restrictions on the access and use of a resource or metadata</name>
+		<norm>useLimitation</norm>
+		<doc/>
+	</diffusion>
+	<diffusion>
+		<name>Access constraints applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the resource.</name>
+		<norm>accessConstraints</norm>
+		<doc/>
+	</diffusion>	
+</diffusions>

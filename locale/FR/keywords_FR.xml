@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keywords>
+	<keyword>
+		<name>données ouvertes</name>
+		<description>identifie les données en Open Data</description>
+	</keyword>
+	<keyword>
+		<name>cadastre</name>
+		<description>concerne le cadastre</description>
+	</keyword>
+	<keyword>
+		<name>SIRAD</name>
+		<description>Projet SIRAD</description>
+	</keyword>
+	<keyword>
+		<name>test</name>
+		<description>test</description>
+	</keyword>
+	<keyword>
+		<name>MNT</name>
+		<description>former description</description>
+	</keyword>
+	<keyword>
+		<name>étude d'impact</name>
+		<description>former description</description>
+	</keyword>
+</keywords>

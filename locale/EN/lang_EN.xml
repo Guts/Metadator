@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lang iso="EN">
+<!-- Language -->
+	<langue>English</langue>
+<!-- Paths -->
+	<path_aide>locale/EN/help_EN.xml</path_aide>
+	<path_chps>locale/EN/champignons_EN.xml</path_chps>
+	<path_mtc>locale/EN/keywords_EN.xml</path_mtc>
+	<path_inspire>locale/EN/inspire/themes_inspire_EN.xml</path_inspire>
+	<path_iso>locale/EN/inspire/themes_iso_EN.xml</path_iso>
+	<path_fonctions>locale/EN/inspire/fonctions_EN.xml</path_fonctions>
+	<path_spec>locale/EN/inspire/specifications_EN.xml</path_spec>
+<!-- GUI -->
+<!-- GLOBAL -->
+	<hi>Hello </hi>
+	<gui_quit>Exit</gui_quit>
+	<gui_cancel>Cancel</gui_cancel>
+	<gui_cholang>Language:</gui_cholang>
+	<gui_tab1>General</gui_tab1>
+	<gui_tab2>Options</gui_tab2>
+	<gui_tab3>Recurring attributes</gui_tab3>
+<!-- TAB1 -->
+	<tab1_fr1>Folder to explore and profile to apply</tab1_fr1>
+	<tab1_path>Path: </tab1_path>
+	<tab1_browse>Browse</tab1_browse>
+	<tab1_cible>Select the folder</tab1_cible>
+	<tab1_prof>Existing profiles:</tab1_prof>
+	<tab1_frprog>Progression</tab1_frprog>
+	<tab1_prog1>Progression: listing</tab1_prog1>
+	<tab1_prog2>Progression: treatment</tab1_prog2>
+	<tab1_go>Launch</tab1_go>
+	<tab1_crprofil>Create a new profile</tab1_crprofil>
+	<tab1_new>New profile...</tab1_new>
+<!-- TAB2 -->
+	<tab2_merge>Merge all doc files into one doc?</tab2_merge>
+	<info_noption>Any export option selected</info_noption>
+	<info_choption>CHOOSE AT LEAST ONE EXPORT OPTION</info_choption>
+<!-- TAB3 -->
+	<tab3_tit>Edition</tab3_tit>
+	<tab3_sele>Existing attributes</tab3_sele>
+	<tab3_new>Add a new one...</tab3_new>
+	<tab3_supp>Delete</tab3_supp>
+	<tab3_nom>Label</tab3_nom>
+	<tab3_cass>Case sensitive?</tab3_cass>
+	<tab3_desc>Description to apply</tab3_desc>
+	<tab3_stat>Statistics?</tab3_stat>
+	<tab3_save>Save</tab3_save>
+	<tab3_alert_exist1>Existing field</tab3_alert_exist1>
+	<tab3_alert_exist2>The field already exists. Do you want to replace it?</tab3_alert_exist2>
+
+<!-- PROCESS -->
+	<info_cat>Creating the global catalog</info_cat>
+	<info_blanktarget1>Path missing</info_blanktarget1>
+	<info_blanktarget2>Please, select the path to explore.</info_blanktarget2>
+	<info_blankprofile1>No profile selected</info_blankprofile1>
+	<info_blankprofile2>Choose among the existing profiles or create a new one.</info_blankprofile2>
+	<info_end>The end: job done!</info_end>
+	<info_end2>Metadator finished the job. It processed </info_end2>
+	<info_end3>Out files are in this folder: </info_end3>
+	<info_err> error(s) occured. Check the log file.</info_err>
+	<info_noerr>Any error occured.</info_noerr>
+	<info_restart1>Restart needed</info_restart1>
+	<info_restart2>Program needs to be restarted to apply new settings.</info_restart2>
+
+<!-- LOG -->
+	<log_numfold> folders.</log_numfold>
+	<log_dossdest>Destination folder: </log_dossdest>
+	<log_dossour>Source shapes folder: </log_dossour>
+	<log_end>End of process: </log_end>
+	<log_entete>Automated tool creation for metadata - Version: 1.9</log_entete>
+	<log_format>Export options selected:</log_format>
+	<log_newpro>New profile created.</log_newpro>
+	<log_nobjet> fields) - THIS SHAPE NO CONTAINS ANY OBJECT. Metadator can't process it !</log_nobjet>
+	<log_numshp>Number of shapes: </log_numshp>
+	<log_profil>Metadata profile applied: </log_profil>
+	<log_start>Start of process: </log_start>
+	<log_tps>Elapsed time: </log_tps>
+	<log_warn>WARNING => Temporary folder (</log_warn>
+	<log_warn2>) couldn't be deleted. CHMOD access permissions issue.</log_warn2>
+	<log_nodata>Any compatible geofiles found...</log_nodata>
+	
+	
+<!-- METADATA -->
+<!-- LABELS -->
+	<titre>Metadata of </titre>	
+	<nomfic>File name</nomfic>
+	<mtcthem>Thematic keywords</mtcthem>
+	<mtcgeo>Geographic keywords</mtcgeo>
+	<description>Description: </description>
+	<cadre>Global presentation of the context of creation of data</cadre>
+	<num_objets>Number of features</num_objets>
+	<num_attrib>Number of fields</num_attrib>
+	<date_crea>Information date</date_crea>
+	<date_actu>Date of last update</date_actu>
+	<source>Source(s)</source>
+	<diffusion>Diffusion contraints</diffusion>
+	<responsable>Responsable</responsable>
+	<ptcontact>Point of contact</ptcontact>
+	<siteweb>Website</siteweb>
+	<geometrie>Geometry</geometrie>
+	<echelle>Scale</echelle>
+	<precision>Precision</precision>
+	<srs>Coordinate system</srs>
+	<codepsg>EPSG code: </codepsg>
+	<emprise>Bounding box</emprise>
+	<longueur>Field length: </longueur>
+	<numero>Rank</numero>
+	<nom>Name</nom>
+	<type>Type: </type>
+	<geom_point>Point</geom_point>
+	<geom_ligne>Line</geom_ligne>
+	<geom_polyg>Polygon</geom_polyg>
+<!-- Stats numériques -->
+	<entier>Numeric (integer)</entier>
+	<reel>Numeric (float)</reel>
+	<valuniq>Unique values (nb. of features = nb. of different values).</valuniq>
+	<valcom>a single value common to all features: </valcom>
+	<num_valdif> different values.</num_valdif>
+	<num_valdif20> different values. There are the most 20 represented:</num_valdif20>
+	<statsbase>Basic statistics</statsbase>
+	<somme>Sum: </somme>
+	<moyenne>Mean: </moyenne>
+	<mediane>Median: </mediane>
+	<min>Minimum: </min>
+	<max>Maximum: </max>
+	<ecartype>Standard deviation: </ecartype>
+	<valnulles>Number of null values: </valnulles>
+	<perctotal>% of total)</perctotal>
+	<valfreq>Values (frequencies):</valfreq>
+<!-- Stats texte -->
+	<string>String</string>
+	<txt_valdif> different modalities.</txt_valdif>
+	<txt_valdif20> different modalities. There are the 20 most important:</txt_valdif20>
+	<txt_moda>Modalities (occurrences): </txt_moda>
+<!-- Stats date -->	
+	<date>Date</date>	
+	<date_ans> years, </date_ans>
+	<date_mois> months, </date_mois>
+	<date_jour> days.</date_jour>
+	<champvid>Empty field</champvid>
+	<datancienne>Earliest date: </datancienne>
+	<daterecente>the most recent: </daterecente>
+	<date_intervmax>Maximum interval: </date_intervmax>
+<!-- HTML et Excel -->		
+	<xls_feuy1>Global information</xls_feuy1>
+	<xls_feuy2>Fields</xls_feuy2>
+	<acompleter>DESCRIPTION TO COMPLETE</acompleter>
+	<listattributs>FIELDS LIST:</listattributs>
+	<champs> fields)</champs>
+	<soit> (ie </soit>
+	<attvide>This field is empty.</attvide>
+	<inconnu>Field type no accepted.</inconnu>
+	
+<!-- FORM -->
+<!-- Création profil -->
+	<prof_exist>File already exists</prof_exist>
+	<prof_exist2>It alreday exists a profile with this name. Replace it (otherwise the file name will be incremented) ?</prof_exist2>
+<!-- Mots-clés personnalisés -->
+	<mtc_exist>Error - Keyword already added or empty</mtc_exist>
+	<mtc_exist2>Maybe this keyword is already in the list or empty.</mtc_exist2>
+	<mtc_del>Error - any keyword selected</mtc_del>
+	<mtc_del2>Select a keyword to delete.</mtc_del2>
+<!-- Contacts -->
+	<cont_new>New contact</cont_new>
+	<cont_del>Delete</cont_del>
+	<cont_resp>Second contact</cont_resp>
+	<cont_id>ID</cont_id>
+	<cont_nom>Firstname NAME</cont_nom>
+	<cont_orga>Organization</cont_orga>
+	<cont_role>Fonction</cont_role>
+	<cont_rue>Street</cont_rue>
+	<cont_ville>City</cont_ville>
+	<cont_cp>Postal code</cont_cp>
+	<cont_pays>Country</cont_pays>
+	<cont_tel>Phone</cont_tel>
+	<cont_mail>Email</cont_mail>
+	<cont_fonc>Role</cont_fonc>
+	<cont_create>Add</cont_create>
+<!-- Check champs formulaire -->
+	<chp_nomfic>Profile name</chp_nomfic>
+	<chp_inspire>INSPIRE themes</chp_inspire>
+	<chp_url>URL</chp_url>
+	<check_err>These fields are not filled correctly:</check_err>
+<!-- Champs formulaire -->
+	<form_titre>Creation of a new metadata profile</form_titre>
+	<form_param>Preferences of profile</form_param>
+	<form_auto>Or fill the fields with this profile: </form_auto>
+	<form_resume>Description: global abstract common to all data which will be processed with this profile.</form_resume>
+	<form_sourc>Sources and lineage.</form_sourc>
+	<form_mtc>  CUSTOMIZABLE KEYWORDS  </form_mtc>
+	<form_newmtc>custom keyword</form_newmtc>
+	<form_mtcdes>short description of the keyword</form_mtcdes>
+	<form_addmtc>Add a new keyword</form_addmtc>
+	<form_delmtc>Definitively remove the keyword selected</form_delmtc>
+	<form_divers>  OTHERS  </form_divers>
+	<form_url>Website URL: </form_url>
+	<form_laburl>URL label: </form_laburl>
+	<form_exurl>Official website / Catalog</form_exurl>
+	<form_rythm>Maintenance frequency: </form_rythm>
+	<form_langdo>Data language: </form_langdo>
+	<form_langmd>Metadata language: </form_langmd>
+	<form_confor>  INSPIRE CONFORMITY  </form_confor>
+	<form_cgu>  DIFFUSION and USES  </form_cgu>
+	<form_spec>INSPIRE specification: </form_spec>
+	<form_conf>Conform</form_conf>
+	<form_noconf>No conform</form_noconf>
+	<form_noeval>No evaluated</form_noeval>
+	<form_degco>Degree of conformity</form_degco>
+	<form_cont>  CONTACTS  </form_cont>
+	<form_applik>Apply an existing contact</form_applik>
+	<form_duplik>Duplicate</form_duplik>
+	<form_save>Save the profile</form_save>
+	<form_back>Cancel</form_back>
+	<form_alert_cancel1>Profile not saved</form_alert_cancel1>
+	<form_alert_cancel2>Take care, your new profile hasn't be saved. Do you want to continue?</form_alert_cancel2>
+	<form_open>oui</form_open>
+	<form_close>non</form_close>
+<!-- Error raising -->
+	<err_encod>This field's name isn't encoding friendly: </err_encod>
+</lang>

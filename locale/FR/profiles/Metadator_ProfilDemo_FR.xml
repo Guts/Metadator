@@ -1,0 +1,97 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<profil>
+	<description>Test du formulaire</description>
+	<sources>Test des sources</sources>
+	<themesinspire>
+		<theme>
+			<name>Unités administratives</name>
+			<norm>Administrative units</norm>
+			<description>Unités d'administration séparées par des limites administratives et délimitant les zones dans lesquelles les États membres détiennent et/ou exercent leurs compétences, aux fins de l'administration locale, régionale et nationale.</description>
+		</theme>
+		<theme>
+			<name>Dénominations géographiques</name>
+			<norm>Geographical names</norm>
+			<description>Noms de zones, de régions, de localités, de grandes villes, de banlieues, de villes moyennes ou d'implantations, ou tout autre élément géographique ou topographique d'intérêt public ou historique.</description>
+		</theme>
+		<theme>
+			<name>Référentiels de coordonnées</name>
+			<norm>Coordinate reference systems</norm>
+			<description>Systèmes de référencement unique des informations géographiques dans l'espace sous forme d'une série de coordonnées (x, y, z) et/ou la latitude et la longitude et l'altitude, en se fondant sur un point géodésique horizontal et vertical.</description>
+		</theme>
+		<theme>
+			<name>Systèmes de maillage géographique</name>
+			<norm>Geographical grid systems</norm>
+			<description>Grille multi-résolution harmonisée avec un point d'origine commun et une localisation ainsi qu'une taille des cellules harmonisées.</description>
+		</theme>
+	</themesinspire>
+	<keywords>
+		<keyword>
+			<name>cadastre</name>
+			<description>concerne le cadastre</description>
+		</keyword>
+		<keyword>
+			<name>test</name>
+			<description>test</description>
+		</keyword>
+	</keywords>
+	<geokeywords>
+		<geokeyword>
+			<name>Bordeaux</name>
+			<description>ville</description>
+		</geokeyword>
+		<geokeyword>
+			<name>France</name>
+			<description>pays</description>
+		</geokeyword>
+	</geokeywords>
+	<url>http://www.tripanou.com</url>
+	<url_label>Site de voyage en Amérique Latine</url_label>
+	<rythm>
+		<name>Non planifié</name>
+		<norm>notPlanned</norm>
+	</rythm>
+	<diffusion>
+		<name>Limitation(s) à l'accès public</name>
+		<norm>otherConstraints</norm>
+	</diffusion>
+	<lang_data>
+		<name>Français</name>
+		<prefix3>fra</prefix3>
+	</lang_data>
+	<lang_metad>
+		<name>Français</name>
+		<prefix3>fra</prefix3>
+	</lang_metad>
+	<contacts>
+		<pointdecontact>
+			<name>Julien MOURA</name>
+			<org>GéoTribu</org>
+			<role>Contributeur</role>
+			<street>28 allée des Métadonnées</street>
+			<city>Inspire</city>
+			<cp>33000</cp>
+			<country>France</country>
+			<tel>985687127</tel>
+			<mail>Guts@users.noreply.github.com</mail>
+			<func>
+				<name>Point de contact</name>
+				<norm>pointOfContact</norm>
+			</func>
+		</pointdecontact>
+		<second_contact>
+			<name>Robin Des BOIS</name>
+			<org>Hadas Cie</org>
+			<role>Archer géomaticien</role>
+			<street>54 forêt de Sherwood</street>
+			<city>Nottingham</city>
+			<cp>33140</cp>
+			<country>France</country>
+			<tel>09 74 11 82 18</tel>
+			<mail>robin.hood@barnsdale.fr</mail>
+			<func>
+				<name>Gestionnaire</name>
+				<norm>custodian</norm>
+			</func>
+		</second_contact>
+	</contacts>
+</profil>

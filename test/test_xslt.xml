@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="test_xslt.xsl" type="text/xsl"?>
+<test>
+	<jeu id="1">
+		<nom>Guild Wars</nom>
+		<type>Jeu de rôle en ligne</type>
+		<prix>Environ 20 € l'épisode</prix>
+	</jeu>
+	<jeu id="2">
+		<nom>Super Mario Galaxy</nom>
+		<type>Jeu de plate-forme</type>
+		<prix>30-50 €</prix>
+	</jeu>
+	<jeu id="3">
+		<nom>Mario Sokoban</nom>
+		<type>Jeu de réflexion</type>
+		<prix>Gratuit</prix>
+	</jeu>
+</test>

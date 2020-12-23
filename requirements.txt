@@ -1,0 +1,26 @@
+# Common requirements
+# -----------------------
+# This file collects all required third-party applications that are needed
+# to run this project. Later you can install all these apps in a row
+# using pip. Example:
+#
+#     pip install -r REQUIREMENTS.txt
+#
+
+# before install python dependencies, you need the ppa ubuntugis activated and some libraries installed on your os:
+# python-setuptools, python-pip, python-dev, python-tk, python-gdal, libxml2-dev, libxslt-dev, python-software-properties
+
+# via pypi
+pyttk
+odfpy
+python-dateutil
+xlrd
+xlwt
+
+# via git
+# git+git://github.com/lpod/lpod-python.git
+# git+git://github.com/mikemaccana/python-docx
+
+
+# only for windows
+# pywin32

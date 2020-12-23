@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<contacts>
+	<contact>
+		<name>Robina Od Lasu</name>
+		<org>Hadas Cie</org>
+		<role>łucznik geomatiky</role>
+		<street>54 Las Sherwood</street>
+		<city>Warszawa</city>
+		<cp>33140</cp>
+		<country>Polska</country>
+		<tel>09 74 11 82 18</tel>
+		<mail>robin.hood@barnsdale.fr</mail>
+	</contact>
+	<contact>
+		<name>Julius MOURASKI</name>
+		<org>GeoTribu</org>
+		<role>Administrator</role>
+		<street>28 ulica metadane</street>
+		<city>Inspire</city>
+		<cp>4800</cp>
+		<country>Polska</country>
+		<tel>6633133</tel>
+		<mail>moura@users.noreply.github.com</mail>
+	</contact>
+</contacts>

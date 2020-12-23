@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rythmes>
+	<rythme>
+		<name>Anualmente</name>
+		<norm>annually</norm>
+	</rythme>
+	<rythme>
+		<name>Bianualmente</name>
+		<norm>biannually</norm>
+	</rythme>
+	<rythme>
+		<name>Quincenalmente</name>
+		<norm>fortnightly</norm>
+	</rythme>
+	<rythme>
+		<name>Continuamente</name>
+		<norm>continual</norm>
+	</rythme>
+	<rythme>
+		<name>Semanalmente</name>
+		<norm>weekly</norm>
+	</rythme>
+	<rythme>
+		<name>Desconocido</name>
+		<norm>unknown</norm>
+	</rythme>
+	<rythme>
+		<name>Irregular</name>
+		<norm>irregular</norm>
+	</rythme>
+	<rythme>
+		<name>Según necesidad</name>
+		<norm>asNeeded</norm>
+	</rythme>
+	<rythme>
+		<name>Mensualmente</name>
+		<norm>monthly</norm>
+	</rythme>
+	<rythme>
+		<name>No programado</name>
+		<norm>notPlanned</norm>
+	</rythme>
+	<rythme>
+		<name>Diariamente</name>
+		<norm>daily</norm>
+	</rythme>
+	<rythme>
+		<name>Trimestralmente</name>
+		<norm>quarterly</norm>
+	</rythme>
+</rythmes>

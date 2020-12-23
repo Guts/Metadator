@@ -1,0 +1,92 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<profil>
+	<description>Form test: here is the description of datasets</description>
+	<sources>Sources, historic</sources>
+	<themesinspire>
+		<theme>
+			<name>Administrative units</name>
+			<norm>Administrative units</norm>
+			<description>Units of administration, dividing areas where Member States have and/or exercise jurisdictional rights, for local, regional and national governance, separated by administrative boundaries.</description>
+		</theme>
+		<theme>
+			<name>Geographical names</name>
+			<norm>Geographical names</norm>
+			<description>Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.</description>
+		</theme>
+		<theme>
+			<name>Geographical grid systems</name>
+			<norm>Geographical grid systems</norm>
+			<description>Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.</description>
+		</theme>
+	</themesinspire>
+	<keywords>
+		<keyword>
+			<name>cadastre</name>
+			<description>about field legal terms</description>
+		</keyword>
+		<keyword>
+			<name>MIT</name>
+			<description>Massachusetts Institute of Technology</description>
+		</keyword>
+	</keywords>
+	<geokeywords>
+		<geokeyword>
+			<name>Lima</name>
+			<description>city</description>
+		</geokeyword>
+		<geokeyword>
+			<name>Peru</name>
+			<description>country</description>
+		</geokeyword>
+	</geokeywords>
+	<url>http://www.tripanou.com</url>
+	<url_label>Website about a trip in South America</url_label>
+	<rythm>
+		<name>Not planned</name>
+		<norm>notPlanned</norm>
+	</rythm>
+	<diffusion>
+		<name>Other restrictions and legal prerequisites for accessing and using the resource or metadata</name>
+		<norm>otherConstraints</norm>
+	</diffusion>
+	<lang_data>
+		<name>English</name>
+		<prefix3>eng</prefix3>
+	</lang_data>
+	<lang_metad>
+		<name>English</name>
+		<prefix3>eng</prefix3>
+	</lang_metad>
+	<contacts>
+		<pointdecontact>
+				<name>Robyn Hode</name>
+				<org>Hadas Cie</org>
+				<role>GIS engineer</role>
+				<street>54 Sherwood Forest</street>
+				<city>Nottingham</city>
+				<cp>NG14</cp>
+				<country>United Kingdom</country>
+				<tel>01623824545</tel>
+				<mail>robin.hood@barnsdale.com</mail>
+			<func>
+				<name>Point of contact</name>
+				<norm>pointOfContact</norm>
+			</func>
+		</pointdecontact>
+		<second_contact>
+				<name>Julien MOURA</name>
+				<org>Metadator</org>
+				<role>GIS engineer</role>
+				<street>From here and there street</street>
+				<city>Bordeaux</city>
+				<cp>33000</cp>
+				<country>France</country>
+				<tel>985687127</tel>
+				<mail>Guts@users.noreply.github.com</mail>
+			<func>
+				<name>Custodian</name>
+				<norm>custodian</norm>
+			</func>
+		</second_contact>
+	</contacts>
+</profil>

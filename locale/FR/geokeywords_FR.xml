@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<places>
+	<geokeyword>
+		<name>Lima</name>
+		<description>ville</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Pérou</name>
+		<description>pays</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Europe</name>
+		<description>continent</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Bordeaux</name>
+		<description>ville</description>
+	</geokeyword>
+	<geokeyword>
+		<name>France</name>
+		<description>pays</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Montpellier</name>
+		<description>former description</description>
+	</geokeyword>
+</places>

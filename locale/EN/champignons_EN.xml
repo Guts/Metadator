@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<champs>
+	<champ>
+		<intitule>ID</intitule>
+		<description>Single code identifying the object among the others.</description>
+		<stats>1</stats>
+		<case>0</case>
+	</champ>
+	<champ>
+		<intitule>ELEV</intitule>
+		<description>Elevation in meters (altitude)</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+</champs>

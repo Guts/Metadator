@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diffusions>
+	<diffusion>
+		<name>Difusión autorizada</name>
+		<norm>diffAut</norm>
+		<doc/>
+	</diffusion>
+	<diffusion>
+		<name>Limitacione(s) al acceso público</name>
+		<norm>otherConstraints</norm>
+		<doc/>
+	</diffusion>
+	<diffusion>
+		<name>Restringida o prohibida</name>
+		<norm>useLimitation</norm>
+		<doc/>
+	</diffusion>
+</diffusions>

@@ -1,0 +1,98 @@
+﻿Memo dico fields
+
+        chp = ''       # fields name
+        med = 0        # median
+        moy = 0        # mean
+        mod = ''       # occurences
+        som = 0        # sum (total)
+        ect = 0        # standart-deviation
+        uppest = 0     # maximum
+        bottom = 0     # minimum
+        freq = 0       # frequency
+        diffdays = u'' # time delta of 2 dates (in days)
+        vid = 0        # counter for null values
+
+
+float or integer
+dico_field[field] = (type, longueur, precision), descript, (som, med, moy, uppest, bottom,freq, mod, ect, vid)
+								0					1							2	
+					  0		 1		    2			0		  0	  1		2	  3	      4		5	 6	  7	   8	
+
+
+string					  
+dico_field[field] = (type, longueur, precision), descript, (mod, freq, vid)
+								0					1			  2	
+					  0		 1		    2			0		 0	  1		2	
+
+date					  
+dico_field[field] = (type, longueur, precision), descript, (uppest, bottom, diffdays, freq, mod, vid)
+								0					1			      			2	
+					  0		 1		    2			0		 0	  		1		2		3	 4	  5	
+					  
+Memo dico layer
+
+clés :
+	type
+	srs_type
+	name
+	folder
+	title
+	num_obj
+	num_fields
+	srs
+	EPSG
+	date_actu
+	date_crea
+	type_geom
+	Xmin
+	Xmax
+	Ymin
+	Ymax
+
+
+
+Memo dico blabla
+
+clés :
+
+
+
+Memo dico rekurs
+
+clés :
+dico_rekur[rek_name] = rek_desc, rek_kass, rek_stat
+
+
+Memo dico profil
+
+clés :
+	description
+	sources
+	url
+	url_label
+	diffusion
+	keywords_geo
+	lang_data
+	lang_md
+	rythm
+	keywords
+	cont_name
+	cont_orga
+	cont_mail
+	cont_role
+	cont_func
+	cont_street
+	cont_city
+	cont_cp
+	cont_country
+	cont_phone
+	resp_name
+	resp_orga
+	resp_mail
+	resp_role
+	resp_func
+	resp_street
+	resp_city
+	resp_cp
+	resp_country
+	resp_phone

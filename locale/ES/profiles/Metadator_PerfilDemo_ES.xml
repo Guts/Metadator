@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<profil>
+	<description>Prueba del formulario: aqui se debe describir el marco de concepción de los datos, describir y resumir el asunto, etc.</description>
+	<sources>Fuentes, histórico</sources>
+	<themesinspire>
+		<theme>
+			<name>Unidades administrativas</name>
+			<norm>Administrative units</norm>
+			<description>Unidades administrativas en que se dividan las áreas en las que los Estados miembros tienen y/o ejercen derechos jurisdiccionales, a efectos de administración local, regional y nacional, separadas por límites administrativos.</description>
+		</theme>
+		<theme>
+			<name>Nombres geográficos</name>
+			<norm>Geographical names</norm>
+			<description>Nombres de zonas, regiones, localidades, ciudades, periferias, poblaciones o asentamientos, o cualquier rasgo geográfico o topográfico de interés público o histórico.</description>
+		</theme>
+	</themesinspire>
+	<keywords>
+		<keyword>
+			<name>transporte</name>
+			<description>tema transporte</description>
+		</keyword>
+		<keyword>
+			<name>decisión e intervención</name>
+			<description>tema decisión</description>
+		</keyword>
+	</keywords>
+	<geokeywords>
+		<geokeyword>
+			<name>Lima</name>
+			<description>ciudad</description>
+		</geokeyword>
+		<geokeyword>
+			<name>Perú</name>
+			<description>país</description>
+		</geokeyword>
+	</geokeywords>
+	<url>http://www.ign.es/csw-inspire</url>
+	<url_label>Catálogo de metadatos </url_label>
+	<rythm>
+		<name>No programado</name>
+		<norm>notPlanned</norm>
+	</rythm>
+	<diffusion>
+		<name>Limitacione(s) al acceso público</name>
+		<norm>otherConstraints</norm>
+	</diffusion>
+	<lang_data>
+		<name>Español</name>
+		<prefix3>spa</prefix3>
+	</lang_data>
+	<lang_metad>
+		<name>Español</name>
+		<prefix3>spa</prefix3>
+	</lang_metad>
+	<contacts>
+		<pointdecontact>
+			<name>Don Quijote</name>
+			<org>Molinos Ind.</org>
+			<role>Ingeniero geomático</role>
+			<street>Calle Mayor 48</street>
+			<city>Alcalá de Henares</city>
+			<cp>28801</cp>
+			<country>España</country>
+			<tel>918 899 654</tel>
+			<mail>museocasanataldecervantes@madrid.org</mail>
+			<func>
+				<name>Punto de contacto</name>
+				<norm>pointOfContact</norm>
+			</func>
+		</pointdecontact>
+		<second_contact>
+			<name>Julien MOURA</name>
+			<org>Metadator</org>
+			<role>Ingeniero geomático</role>
+			<street>Avenida de aquí y allá</street>
+			<city>Burdeos</city>
+			<cp>33000</cp>
+			<country>Francia</country>
+			<tel>985687127</tel>
+			<mail>Guts@users.noreply.github.com</mail>
+			<func>
+				<name>Gerente</name>
+				<norm>custodian</norm>
+			</func>
+		</second_contact>
+	</contacts>
+</profil>

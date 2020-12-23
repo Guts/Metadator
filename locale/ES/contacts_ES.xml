@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<contacts>
+	<contact>
+			<name>Don Quijote</name>
+			<org>Molinos Ind.</org>
+			<role>Ingeniero geomático</role>
+			<street>Calle Mayor 48</street>
+			<city>Alcalá de Henares</city>
+			<cp>28801</cp>
+			<country>España</country>
+			<tel>918 899 654</tel>
+			<mail>museocasanataldecervantes@madrid.org</mail>
+	</contact>
+	<contact>
+			<name>Julien MOURA</name>
+			<org>Metadator</org>
+			<role>Ingeniero geomático</role>
+			<street>Avenida de aquí y allá</street>
+			<city>Burdeos</city>
+			<cp>33000</cp>
+			<country>Francia</country>
+			<tel>985687127</tel>
+			<mail>Guts@users.noreply.github.com</mail>
+	</contact>
+</contacts>

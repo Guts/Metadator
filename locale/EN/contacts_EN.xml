@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<contacts>
+	<contact>
+		<name>Robyn Hode</name>
+		<org>Hadas Cie</org>
+		<role>GIS engineer</role>
+		<street>54 Sherwood Forest</street>
+		<city>Nottingham</city>
+		<cp>NG14</cp>
+		<country>United Kingdom</country>
+		<tel>01623824545</tel>
+		<mail>robin.hood@barnsdale.com</mail>
+	</contact>
+	<contact>
+		<name>Julien MOURA</name>
+		<org>Metadator</org>
+		<role>GIS engineer</role>
+		<street>From here and there street</street>
+		<city>Bordeaux</city>
+		<cp>33000</cp>
+		<country>France</country>
+		<tel>985687127</tel>
+		<mail>Guts@users.noreply.github.com</mail>
+	</contact>
+</contacts>

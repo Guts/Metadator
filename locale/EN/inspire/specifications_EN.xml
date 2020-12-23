@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specifications>
+  <specification>
+    <id>1</id>
+    <titre>Pas de spécification</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>2</id>
+    <titre>unités administratives</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>3</id>
+    <titre>parcelles cadastrales</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>4</id>
+    <titre>dénominations géographiques</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>5</id>
+    <titre>Spéc. pour l'hydrographie</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>6</id>
+    <titre>sites protégés</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>7</id>
+    <titre>réseaux de transport</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>8</id>
+    <titre>adresses</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>9</id>
+    <titre>référentiels de coordonnées</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+  <specification>
+    <id>10</id>
+    <titre>systèmes de maillage géographique</titre>
+    <date>03/05/2010</date>
+    <typedate>Date de publication</typedate>
+  </specification>
+</specifications>

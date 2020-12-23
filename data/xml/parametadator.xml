@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<params>
+	<langue>Français</langue>
+	<codelang>FR</codelang>
+	<rep_defaut>E:/Mes documents/GitHub/Metadator/test/datatest</rep_defaut>
+	<exp_word>1</exp_word>
+	<exp_cat>0</exp_cat>
+	<exp_xls>1</exp_xls>
+	<exp_dict>0</exp_dict>
+	<exp_xml>1</exp_xml>
+</params>

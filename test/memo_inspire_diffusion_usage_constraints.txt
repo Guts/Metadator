@@ -1,0 +1,6 @@
+pour diffusion
+
+2 choix :
+	- ouvert au public => choisir un type de limitation (légal ou sécu) => choisir une licence ou rien
+	- ouvert au public mais tarif => choisir une licence ou rien
+	- pas ouvert au public (doit pouvoir se justifier par une des raisons valables ou directive) => on ajoute restricted choisir un type de limitation (légal ou sécu) => et user doit choisir parmi les restrictions légales (tableau 2)

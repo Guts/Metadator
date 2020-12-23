@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keywords>
+	<keyword>
+		<name>Kataster</name>
+		<description>dotyczy katastru</description>
+	</keyword>
+	<keyword>
+		<name>SEDAPAL</name>
+		<description>Firma odpowiedzialna za zarządzanie wody miasta Limy-Callao</description>
+	</keyword>
+	<keyword>
+		<name>SIRAD</name>
+		<description>Projekt SIRAD</description>
+	</keyword>
+	<keyword>
+		<name>test</name>
+		<description>test</description>
+	</keyword>
+</keywords>

@@ -1,0 +1,37 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 24
+    Cours_eau Char (50) ;
+    Numéro_station_Agence_RMC Char (50) ;
+    Numéro_station_TEREO Char (50) ;
+    X_L93 Float ;
+    Y_L93 Float ;
+    Date Date ;
+    Année Float ;
+    Sous_bassin Char (50) ;
+    Nb_métaux Float ;
+    Arsenic__mg__kg_MS__ Char (50) ;
+    Baryum__mg__kg_MS__ Char (50) ;
+    Beryllium__mg__kg_MS__ Char (50) ;
+    Bore__mg__kg_MS__ Char (50) ;
+    Cadmium__mg__kg_MS__ Char (50) ;
+    Chrome__mg__kg_MS__ Char (50) ;
+    Cobalt__mg__kg_MS__ Char (50) ;
+    Cuivre__mg__kg_MS__ Char (50) ;
+    Etain__mg__kg_MS__ Char (50) ;
+    Mercure__mg__kg_MS__ Char (50) ;
+    Nickel__mg__kg_MS__ Char (50) ;
+    Plomb__mg__kg_MS__ Char (50) ;
+    Titane__mg__kg_MS__ Char (50) ;
+    Vanadium__mg__kg_MS__ Char (50) ;
+    Zinc__mg__kg_MS__ Char (50) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "ab00ab04-fae5-493d-a706-72ec5783681d"
+"\MapInfo\ParentTableID" = "7d25341e-b10f-4288-8ab9-8c2795f554fa"
+end_metadata

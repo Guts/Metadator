@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thematiques>
+  <thematique>
+    <identifiant>1</identifiant>
+    <intitule>Agriculture</intitule>
+    <traduction>farming</traduction>
+    <description>Élevage et/ou culture de plantes.</description>
+  </thematique>
+  <thematique>
+    <identifiant>2</identifiant>
+    <intitule>Altitude</intitule>
+    <traduction>elevation</traduction>
+    <description>Altitude au dessus ou au dessous du niveau de la mer.</description>
+  </thematique>
+  <thematique>
+    <identifiant>3</identifiant>
+    <intitule>Biote</intitule>
+    <traduction>biota</traduction>
+    <description>Flore et/ou faune dans le milieu naturel.</description>
+  </thematique>
+  <thematique>
+    <identifiant>4</identifiant>
+    <intitule>Climatologie / Météorologie / Atmosphère</intitule>
+    <traduction>climatologyMeteorologyAtmosphere</traduction>
+    <description>Processus et phénomènes atmosphériques.</description>
+  </thematique>
+  <thematique>
+    <identifiant>5</identifiant>
+    <intitule>Démographie</intitule>
+    <traduction>society</traduction>
+    <description></description>
+  </thematique>
+  <thematique>
+    <identifiant>6</identifiant>
+    <intitule>Eaux intérieures</intitule>
+    <traduction>inlandWaters</traduction>
+    <description>Eaux intérieures, systèmes de drainages et leurs caractéristiques.</description>
+  </thematique>
+  <thematique>
+    <identifiant>7</identifiant>
+    <intitule>Économie</intitule>
+    <traduction>economy</traduction>
+    <description>Activités et conditions économique et emploi.</description>
+  </thematique>
+  <thematique>
+    <identifiant>8</identifiant>
+    <intitule>Éducation - Formation</intitule>
+    <traduction>society</traduction>
+    <description>Formation initiale et continue, scolarité.</description>
+  </thematique>
+  <thematique>
+    <identifiant>9</identifiant>
+    <intitule>Environnement</intitule>
+    <traduction>environment</traduction>
+    <description>Ressources environnementales, protection, conservation.</description>
+  </thematique>
+  <thematique>
+    <identifiant>10</identifiant>
+    <intitule>Imagerie / Carte de base / Occupation des terres</intitule>
+    <traduction>imageryBaseMapsEarthCover</traduction>
+    <description>Carte de base.</description>
+  </thematique>
+  <thematique>
+    <identifiant>11</identifiant>
+    <intitule>Informations Géoscientifiques</intitule>
+    <traduction>geoscientificInformation</traduction>
+    <description>Informations relatives aux sciences de la terre.</description>
+  </thematique>
+  <thematique>
+    <identifiant>12</identifiant>
+    <intitule>Limites</intitule>
+    <traduction>boundaries</traduction>
+    <description>Description du territoire selon la législation.</description>
+  </thematique>
+  <thematique>
+    <identifiant>13</identifiant>
+    <intitule>Localisation</intitule>
+    <traduction>location</traduction>
+    <description>Informations et systèmes de positionnement.</description>
+  </thematique>
+  <thematique>
+    <identifiant>14</identifiant>
+    <intitule>Océans</intitule>
+    <traduction>oceans</traduction>
+    <description>Spécificités et caractéristiques des masses d'eau salée (à l'exclusion des eaux intérieures).</description>
+  </thematique>
+  <thematique>
+    <identifiant>15</identifiant>
+    <intitule>Planification / Cadastre</intitule>
+    <traduction>planningCadastre</traduction>
+    <description>Informations utilisées pour des actions appropriées concernant l'usage futurs des sols.</description>
+  </thematique>
+  <thematique>
+    <identifiant>16</identifiant>
+    <intitule>Renseignement / Secteur militaire</intitule>
+    <traduction>intelligenceMilitary</traduction>
+    <description>Bases, structures et activités militaires.</description>
+  </thematique>
+  <thematique>
+    <identifiant>17</identifiant>
+    <intitule>Santé</intitule>
+    <traduction>health</traduction>
+    <description>Santé, services de santé, écologie humaine et sécurité.</description>
+  </thematique>
+  <thematique>
+    <identifiant>18</identifiant>
+    <intitule>Service d'utilité publique / Communication</intitule>
+    <traduction>utilitiesCommunication</traduction>
+    <description>Systèmes de distributions d'énergie, d'eau, ou systèmes de collecte des déchets, infrastructures, services de communication.</description>
+  </thematique>
+  <thematique>
+    <identifiant>19</identifiant>
+    <intitule>Société / Social</intitule>
+    <traduction>society</traduction>
+    <description>Caractéristiques de la société et des cultures.</description>
+  </thematique>
+  <thematique>
+    <identifiant>20</identifiant>
+    <intitule>Structure</intitule>
+    <traduction>structure</traduction>
+    <description>Constructions humaines.</description>
+  </thematique>
+  <thematique>
+    <identifiant>21</identifiant>
+    <intitule>TIC</intitule>
+    <traduction>utilitiesCommunication</traduction>
+    <description>Informatique, infrastructures numériques, telecom, réseaux.</description>
+  </thematique>
+  <thematique>
+    <identifiant>22</identifiant>
+    <intitule>Tourisme</intitule>
+    <traduction>society</traduction>
+    <description>Structures d'accueil, nombre de visiteurs...</description>
+  </thematique>
+  <thematique>
+    <identifiant>23</identifiant>
+    <intitule>Transport</intitule>
+    <traduction>transportation</traduction>
+    <description>Moyens et aides pour le transport des personnes et/ou des marchandises.</description>
+  </thematique>
+</thematiques>

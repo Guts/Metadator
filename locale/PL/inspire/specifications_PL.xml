@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specifications>
+  <specification>
+    <id>1</id>
+    <titre>Bez specyfikacji</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>2</id>
+    <titre>unités administratives</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>3</id>
+    <titre>Działki katastralne</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>4</id>
+    <titre>Nazwy geograficzne</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>5</id>
+    <titre>Specyfikacja hydrografii</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>6</id>
+    <titre>Obszary chronione</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>7</id>
+    <titre>Sieci transportowe</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>8</id>
+    <titre>Adresy</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>9</id>
+    <titre>Systemy odniesienia za pomocą współrzędnych</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+  <specification>
+    <id>10</id>
+    <titre>Systemy siatek geograficznych</titre>
+    <date>03/05/2010</date>
+    <typedate>Data publikacji</typedate>
+  </specification>
+</specifications>

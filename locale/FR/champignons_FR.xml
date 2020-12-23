@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<champs>
+	<champ>
+		<intitule>ID</intitule>
+		<description>Identifiant unique de l'objet au sein du jeu de données</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>ELEV</intitule>
+		<description>Altitude (en mètres)</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+</champs>

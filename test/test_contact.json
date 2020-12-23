@@ -1,0 +1,17 @@
+[
+    {
+        'name': 'Metadator',
+        'tel': '555-555-555',
+        'adress': '5, rue des lilas'
+    },
+    {
+        'nom': 'DicoGIS',
+        'numero': '1234567890',
+        'adresse': 'Patong, thailande'
+    },
+    {
+        'nom': 'PhotosMap',
+        'numero': '666',
+        'adresse': '7eme cercle'
+    }
+]

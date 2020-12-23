@@ -1,0 +1,25 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 13
+    Cours_eau Char (50) ;
+    Numéro_station_Agence_RMC Char (50) ;
+    Numéro_station_TEREO Char (50) ;
+    X_L93 Float ;
+    Y_L93 Float ;
+    Date Date ;
+    Année Integer ;
+    Sous_bassin Char (50) ;
+    Groupe_indicateur_IBGN Float ;
+    Variété_taxonomique Float ;
+    IBGN Float ;
+    IBD Float ;
+    IBMR Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "003ca5c9-a51b-41d1-91fe-a7840377f4ab"
+end_metadata

@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<places>
+	<geokeyword>
+		<name>Warszawa</name>
+		<description>Miasto</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Polska</name>
+		<description>Kraj</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Europa</name>
+		<description>Kontynent</description>
+	</geokeyword>
+	<geokeyword>
+		<name>Krakow</name>
+		<description>Miasto</description>
+	</geokeyword>
+</places>

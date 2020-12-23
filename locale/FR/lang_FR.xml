@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lang iso="FR">
+<!-- Nom de la langue -->
+	<langue>Français</langue>
+<!-- Chemins fichiers -->
+	<path_aide>locale/FR/help_FR.xml</path_aide>
+	<path_chps>locale/FR/champignons_FR.xml</path_chps>
+	<path_mtc>locale/FR/keywords_FR.xml</path_mtc>
+	<path_inspire>locale/FR/inspire/themes_inspire_FR.xml</path_inspire>
+	<path_iso>locale/FR/inspire/themes_iso_FR.xml</path_iso>
+	<path_fonctions>locale/FR/inspire/fonctions_FR.xml</path_fonctions>
+	<path_spec>locale/FR/inspire/specifications_FR.xml</path_spec>
+<!-- GUI -->
+<!-- GLOBAL -->
+	<hi>Bonjour </hi>
+	<gui_quit>Quitter</gui_quit>
+	<gui_cancel>Annuler</gui_cancel>
+	<gui_cholang>Langue :</gui_cholang>
+	<gui_tab1>Général</gui_tab1>
+	<gui_tab2>Options</gui_tab2>
+	<gui_tab3>Attributs récurrents</gui_tab3>
+<!-- TAB1 -->
+	<tab1_fr1>Arborescence et profil</tab1_fr1>
+	<tab1_path>Chemin du dossier : </tab1_path>
+	<tab1_browse>Parcourir</tab1_browse>
+	<tab1_cible>Sélectionner le dossier cible</tab1_cible>
+	<tab1_prof>Profils existants :</tab1_prof>
+	<tab1_frprog>Progression</tab1_frprog>
+	<tab1_prog1>Progression : recherche des fichiers compatibles</tab1_prog1>
+	<tab1_prog2>Progression : traitement des fichiers en cours</tab1_prog2>
+	<tab1_go>Lancer</tab1_go>
+	<tab1_crprofil>Créer un nouveau profil</tab1_crprofil>
+	<tab1_new>Nouveau profil...</tab1_new>
+<!-- TAB2 -->
+	<tab2_merge>Créer un fichier Word unique ?</tab2_merge>
+	<info_noption>Aucune option d'export choisie</info_noption>
+	<info_choption>CHOISIR AU MOINS UNE OPTION D'EXPORT</info_choption>
+<!-- TAB3 -->
+	<tab3_tit>Edition de l'attribut</tab3_tit>
+	<tab3_sele>Attributs existants</tab3_sele>
+	<tab3_new>Ajouter...</tab3_new>
+	<tab3_supp>Supprimer</tab3_supp>
+	<tab3_nom>Nom</tab3_nom>
+	<tab3_cass>Sensible à la casse ?</tab3_cass>
+	<tab3_desc>Description à appliquer</tab3_desc>
+	<tab3_stat>Statistiques ?</tab3_stat>
+	<tab3_save>Sauvegarder</tab3_save>
+	<tab3_alert_exist1>Attribut déjà existant</tab3_alert_exist1>
+	<tab3_alert_exist2>L'attribut existe déjà. Voulez-vous le remplacer ?</tab3_alert_exist2>
+
+<!-- PROCESS -->
+	<info_cat>Création du catalogue global</info_cat>
+	<info_blanktarget1>Dossier cible non renseigné</info_blanktarget1>
+	<info_blanktarget2>Indiquer le dossier contenant les données.</info_blanktarget2>
+	<info_blankprofile1>Aucun profil sélectionné</info_blankprofile1>
+	<info_blankprofile2>Choisir parmi les profils existants ou en créer un nouveau.</info_blankprofile2>
+	<info_end>Fin du programme</info_end>
+	<info_end2>Metadator a terminé son travail. Il a traité </info_end2>
+	<info_end3>Les fichiers de sortie sont dans le dossier : </info_end3>
+	<info_err> erreur(s) rencontrée(s). Consulter le fichier log.</info_err>
+	<info_noerr>Aucune erreur rencontrée.</info_noerr>
+	<info_restart1>Redémarrage requis</info_restart1>
+	<info_restart2>Le programme a besoin de redémarrer pour appliquer les changements.</info_restart2>
+
+<!-- Log -->	
+	<log_numshp>Nombre de fichiers : </log_numshp>
+	<log_numfold> dossiers.</log_numfold>
+	<log_dossdest>Dossier de destination : </log_dossdest>
+	<log_dossour>Dossier source des shapes : </log_dossour>
+	<log_end>Fin du traitement : </log_end>
+	<log_entete>Script de création automatisée de fiches de métadonnées - Version : 2.x</log_entete>
+	<log_format>Formats de sortie choisis :</log_format>
+	<log_newpro>Nouveau profil créé.</log_newpro>
+	<log_nobjet> champs) - CE SHAPE N'A AUCUN OBJET. TRAITEMENT IMPOSSIBLE !</log_nobjet>
+	<log_numshp>Nombre de shapes : </log_numshp>
+	<log_profil>Profil de métadonnées appliqué : </log_profil>
+	<log_start>Début du traitement : </log_start>
+	<log_tps>Temps écoulé : </log_tps>
+	<log_warn>ATTENTION => Dossier provisoire (</log_warn>
+	<log_warn2>) non supprimé. Problème de droits d'accès en écriture.</log_warn2>
+	<log_nodata>Aucun fichier géographique compatible trouvé...</log_nodata>
+<!-- Fiche -->
+<!-- Intitulés -->
+	<titre>Métadonnées de </titre>	
+	<nomfic>Nom du fichier</nomfic>
+	<mtcthem>Mots-clés thématiques</mtcthem>
+	<mtcgeo>Mots-clés géographiques</mtcgeo>
+	<description>Description : </description>
+	<cadre>Contexte</cadre>
+	<num_objets>Nombre d'objets</num_objets>
+	<num_attrib>Nombre d'attributs</num_attrib>
+	<date_crea>Date de l'information</date_crea>
+	<date_actu>Date de la dernière  actualisation</date_actu>
+	<source>Source(s)</source>
+	<diffusion>Diffusion</diffusion>
+	<responsable>Responsable de la donnée</responsable>
+	<ptcontact>Point de contact</ptcontact>
+	<siteweb>Site internet</siteweb>
+	<geometrie>Type de géométrie</geometrie>
+	<echelle>Échelle</echelle>
+	<precision>Précision</precision>
+	<srs>Système de coordonnées</srs>
+	<codepsg>Code EPSG : </codepsg>
+	<emprise>Emprise spatiale</emprise>
+	<longueur>Longueur du champ : </longueur>
+	<numero>Numéro</numero>
+	<nom>Nom</nom>
+	<type>Type : </type>
+	<geom_point>Point</geom_point>
+	<geom_ligne>Ligne</geom_ligne>
+	<geom_polyg>Polygone</geom_polyg>
+<!-- Stats numériques -->
+	<entier>Numérique (Entier)</entier>
+	<reel>Numérique (Réel)</reel>
+	<valuniq>Valeurs uniques (nb. d'objets = nb. de valeurs différentes).</valuniq>
+	<valcom>une seule valeur commune à tous les objets : </valcom>
+	<num_valdif> valeurs différentes.</num_valdif>
+	<num_valdif20> valeurs différentes. Voici les 20 plus représentées :</num_valdif20>
+	<statsbase>Statistiques de base :</statsbase>
+	<somme>Somme : </somme>
+	<moyenne>Moyenne : </moyenne>
+	<mediane>Médiane : </mediane>
+	<min>Minimum : </min>
+	<max>Maximum : </max>
+	<ecartype>Écart-type : </ecartype>
+	<valnulles>Nombre de valeurs nulles : </valnulles>
+	<perctotal>% du total</perctotal>
+	<valfreq>Valeurs (fréquences) :</valfreq>
+<!-- Stats texte -->
+	<string>Texte</string>
+	<txt_valdif> modalités différentes.</txt_valdif>
+	<txt_valdif20> modalités différentes. Voici les 20 plus importantes :</txt_valdif20>
+	<txt_moda>Modalités (occurrences) : </txt_moda>
+<!-- Stats date -->	
+	<date>Date</date>	
+	<date_ans> ans, </date_ans>
+	<date_mois> mois, </date_mois>
+	<date_jour> jours.</date_jour>
+	<champvid>Champ vide</champvid>
+	<datancienne>Date la plus ancienne : </datancienne>
+	<daterecente>Date la plus récente : </daterecente>
+	<date_intervmax>Intervalle maximum : </date_intervmax>
+<!-- HTML et Excel -->		
+	<xls_feuy1>Données de base</xls_feuy1>
+	<xls_feuy2>Attributs</xls_feuy2>
+	<acompleter>DESCRIPTION À COMPLÉTER</acompleter>
+	<listattributs>LISTE DES ATTRIBUTS :</listattributs>
+	<champs> attributs)</champs>
+	<soit>soit</soit>
+	<attvide>Cet attribut est vide.</attvide>
+	<inconnu>Type de champ n'est pas pris en charge.</inconnu>
+<!-- FORMULAIRE -->
+<!-- Création profil -->
+	<prof_exist>Fichier déjà existant</prof_exist>
+	<prof_exist2>Il existe déjà un fichier de profil avec ce nom. Le remplacer (sinon le nom sera incrémenté) ?</prof_exist2>
+<!-- Mots-clés personnalisés -->
+	<mtc_exist>Erreur - Mot-clé déjà ajouté ou vide</mtc_exist>
+	<mtc_exist2>Soit le mot-clé entré est déjà dans la liste ; soit le champ est vide.</mtc_exist2>
+	<mtc_del>Erreur - Aucun mot-clé sélectionné</mtc_del>
+	<mtc_del2>Sélectionner un mot-clé à supprimer.</mtc_del2>
+<!-- Diffusion -->
+	<form_diff_type>Type de diffusion</form_diff_type>
+	<form_diff_opened>Ouverte, autorisée</form_diff_opened>
+	<form_diff_closed>Fermée, restreinte</form_diff_closed>
+	<form_diff_pick_licence>Licence</form_diff_pick_licence>
+	<form_diff_pick_legal>Restriction légale</form_diff_pick_legal>
+	<form_diff_pick_inspire>Restriction liée à la directive INSPIRE</form_diff_pick_inspire>
+<!-- Contacts -->
+	<cont_new>Nouveau contact</cont_new>
+	<cont_del>Supprimer</cont_del>
+	<cont_resp>Second contact</cont_resp>
+	<cont_id>Identifiant</cont_id>
+	<cont_nom>Prénom NOM</cont_nom>
+	<cont_orga>Organisation</cont_orga>
+	<cont_role>Rôle</cont_role>
+	<cont_rue>Rue</cont_rue>
+	<cont_ville>Ville</cont_ville>
+	<cont_cp>Code postal</cont_cp>
+	<cont_pays>Pays</cont_pays>
+	<cont_tel>Téléphone</cont_tel>
+	<cont_mail>Courriel</cont_mail>
+	<cont_fonc>Fonction</cont_fonc>
+	<cont_create>Ajouter</cont_create>
+<!-- Check champs formulaire -->
+	<chp_nomfic>Nom du nouveau profil</chp_nomfic>
+	<chp_inspire>Thèmes INSPIRE</chp_inspire>
+	<chp_url>Lien internet</chp_url>
+	<check_err>Ces champs ne sont pas remplis correctement.</check_err>
+<!-- Champs formulaire -->
+	<form_titre>Création d'un nouveau profil de métadonnées</form_titre>
+	<form_param>Paramètres du fichier de profil</form_param>
+	<form_auto>Ou remplir les champs avec ce profil : </form_auto>
+	<form_resume>Description : description globale et commune du cadre dans lequel les données ont été créées.</form_resume>
+	<form_sourc>Sources et historique : origine et modalités de la création des données.</form_sourc>
+	<form_mtc>  MOTS-CLÉS PERSONNALISÉS  </form_mtc>
+	<form_newmtc>nouveau mot-clé personnalisé</form_newmtc>
+	<form_mtcdes>description courte du mot-clé</form_mtcdes>
+	<form_addmtc>Ajouter un nouveau mot-clé</form_addmtc>
+	<form_delmtc>Supprimer définitivement le mot-clé sélectionné</form_delmtc>
+	<form_divers>  DIVERS  </form_divers>
+	<form_url>Lien (URL) : </form_url>
+	<form_laburl>Intitulé du lien : </form_laburl>
+	<form_exurl>Site officiel / Catalogue</form_exurl>
+	<form_rythm>Rythme d'actualisation : </form_rythm>
+	<form_langdo>Langue de la donnée : </form_langdo>
+	<form_langmd>Langue de la métadonnée : </form_langmd>
+	<form_confor>  CONFORMITÉ INSPIRE  </form_confor>
+	<form_cgu>  DIFFUSION et USAGE  </form_cgu>
+	<form_spec>Spécification INSPIRE : </form_spec>
+	<form_conf>Conforme</form_conf>
+	<form_noconf>Non conforme</form_noconf>
+	<form_noeval>Non évalué</form_noeval>
+	<form_degco>Degré de conformité</form_degco>
+	<form_cont>  CONTACTS  </form_cont>
+	<form_applik>Appliquer un contact existant</form_applik>
+	<form_duplik>Recopier</form_duplik>
+	<form_save>Enregistrer le profil</form_save>
+	<form_back>Retour</form_back>
+	<form_alert_cancel1>Quitter sans sauvegarder</form_alert_cancel1>
+	<form_alert_cancel2>Attention, le profil ne sera pas sauvegardé. Voulez-vous vraiment quitter ?</form_alert_cancel2>
+	<form_open>oui</form_open>
+	<form_close>non</form_close>
+<!-- Gestion erreurs -->
+	<err_encod>Le nom du champ n'est pas bien formaté (caractères spéciaux) : </err_encod>
+</lang>

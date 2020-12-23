@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<champs>
+	<champ>
+		<intitule>DISTRICT</intitule>
+		<description>Nom du district dans lequel se situe l'objet.</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>ADRESSE</intitule>
+		<description>Adresse de l'objet</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>UBIGEO</intitule>
+		<description>Code unique de l'unité administrative (Pérou)</description>
+		<stats>1</stats>
+		<case>0</case>
+	</champ>
+	<champ>
+		<intitule>ID</intitule>
+		<description>Identifiant unique de l'objet au sein de la couche d'information</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>ACCES_DIA</intitule>
+		<description>Qualité de l'accessibilité de jour, de la zone dans laquelle se trouve l'objet. L'accessibilité de jour est calculée à partir de l'accessibilité de nuit, à laquelle est ajoutée une variable de congestion du trafic routier (nombre de points de congestion par kilomètre de routes principales dans la zone).</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>ACCES_NOC</intitule>
+		<description>Valeur de l'accessiblité de nuit de la zone dans laquelle se trouve l'objet. Deux groupes de variables sont pris en compte :
+		- le premier permet de qualifier l'accessibilité interne en prenant en compte la densité du réseau viaire, la densité du réseau viaire principal, le pourcentage du territoire de la zone situé à plus de 500m du réseau principal, la largeur de voie moyenne et le pourcentage du territoire de la zone occupé par les collines (cerros).
+		- le second qualifie la perméabilité des zones (ou accessibilité externe). Il prend en compte le nombre de points d'entrée/sortie (mis à part les ponts et les tunnels) ; une valeur de la perméabilité du périmètre en fonction de sa nature (valeur nulle si le périmètre est de type colline, espace fermé ou océan ; perméabilité limitée pour les limites de type "fleuve" (río) et "route à niveaux" (vía a desnivel) en fonction de la quantité de ponts par kilomètre ; aucun problème de perméabilité pour le reste).
+
+		L'accessibilité de nuit est une synthèse de ces deux groupes de facteurs.</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>tags</intitule>
+		<description>Attributs ajoutés à chaque noeud/relation/chemin créés dans OpenStreetMap. Ils sont composés d'une clé et d'une valeur, ordonnés de la facon suivante dans le champ : "clé1" = "valeur_clé1","clé2"="valeur_clé2"... Plus d'informations sur le wiki d'OSM : https://wiki.openstreetmap.org/wiki/FR:Map_Features</description>
+		<stats>0</stats>
+		<case>0</case>
+	</champ>
+	<champ>
+		<intitule>user</intitule>
+		<description>Pseudonyme de l'utilisateur d'OpenStreetMap responsable de la dernière édition de l'objet. On peut consulter le profil de chaque utilisateur en utilisant la syntaxe suivante : http://www.openstreetmap.org/user/PSEUDONYME_DE_L'UTILISATEUR_CHERCHÉ</description>
+		<stats>1</stats>
+		<case>1</case>
+	</champ>
+	<champ>
+		<intitule>timestamp</intitule>
+		<description>Horodatage de la dernière édition de l'objet dans OpenStreetMap.</description>
+		<stats>1</stats>
+		<case>0</case>
+	</champ>
+	<champ>
+		<intitule>Pauline</intitule>
+		<description>Super koolega</description>
+		<stats>0</stats>
+		<case>1</case>
+	</champ>
+</champs>

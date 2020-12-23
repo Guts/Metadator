@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<language>
+		<name>Deutsch</name>
+		<prefix2>DE</prefix2>
+		<prefix3>deu</prefix3>
+	</language>
+	<language>
+		<name>English</name>
+		<prefix2>EN</prefix2>
+		<prefix3>eng</prefix3>
+	</language>
+	<language>
+		<name>Español</name>
+		<prefix2>ES</prefix2>
+		<prefix3>spa</prefix3>
+	</language>
+	<language>
+		<name>Français</name>
+		<prefix2>FR</prefix2>
+		<prefix3>fra</prefix3>
+	</language>
+	<language>
+		<name>Italiano</name>
+		<prefix2>IT</prefix2>
+		<prefix3>ita</prefix3>
+	</language>
+	<language>
+		<name>Portuguès</name>
+		<prefix2>PT</prefix2>
+		<prefix3>por</prefix3>
+	</language>
+	<language>
+		<name>Autre/Other/Otro</name>
+		<prefix2>und</prefix2>
+		<prefix3>und</prefix3>
+	</language>
+</languages>

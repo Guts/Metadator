@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonctions>
+	<fonction>
+		<name>Proveedor del recurso</name>
+		<norm>resourceProvider</norm>
+	</fonction>
+	<fonction>
+		<name>Gerente</name>
+		<norm>custodian</norm>
+	</fonction>
+	<fonction>
+		<name>Propietario</name>
+		<norm>owner</norm>
+	</fonction>
+	<fonction>
+		<name>Usuario</name>
+		<norm>user</norm>
+	</fonction>
+	<fonction>
+		<name>Distribuidor</name>
+		<norm>distributor</norm>
+	</fonction>
+	<fonction>
+		<name>Comanditario (patrocinador)</name>
+		<norm>originator</norm>
+	</fonction>
+	<fonction>
+		<name>Punto de contacto</name>
+		<norm>pointOfContact</norm>
+	</fonction>
+	<fonction>
+		<name>Contratista principal</name>
+		<norm>principalInvestigator</norm>
+	</fonction>
+	<fonction>
+		<name>Integrador</name>
+		<norm>processor</norm>
+	</fonction>
+	<fonction>
+		<name>Editor</name>
+		<norm>publisher</norm>
+	</fonction>
+	<fonction>
+		<name>Autor</name>
+		<norm>author</norm>
+	</fonction>
+</fonctions>

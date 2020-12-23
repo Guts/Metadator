@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 9
+    cat Integer (10) ;
+    NA3 Char (80) ;
+    ELEV Decimal (32,3) ;
+    F_CODE Char (80) ;
+    IKO Char (80) ;
+    NAME Char (80) ;
+    USE Char (80) ;
+    CREATION Char (10) ;
+    PASSENGERS Integer (5) ;

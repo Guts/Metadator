@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keywords>
+<!-- Source : http://www.eionet.europa.eu/gemet/inspire_themes?langcode=fr -->
+<!-- Annexe 1 -->
+	<keyword>
+		<intitule>Coordinate reference systems</intitule>
+		<traduction>Coordinate reference systems</traduction>
+		<annexe>01</annexe>
+		<subtem>01</subtem>
+		<description>Systems for uniquely referencing spatial information in space as a set of coordinates (x, y, z) and/or latitude and longitude and height, based on a geodetic horizontal and vertical datum.</description>
+	</keyword>
+	<keyword>
+		<intitule>Geographical grid systems</intitule>
+		<traduction>Geographical grid systems</traduction>
+		<annexe>01</annexe>
+		<subtem>02</subtem>
+		<description>Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.</description>
+	</keyword>
+	<keyword>
+		<intitule>Geographical names</intitule>
+		<traduction>Geographical names</traduction>
+		<annexe>01</annexe>
+		<subtem>03</subtem>
+		<description>Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.</description>
+	</keyword>
+	<keyword>
+		<intitule>Administrative units</intitule>
+		<traduction>Administrative units</traduction>
+		<annexe>01</annexe>
+		<subtem>04</subtem>
+		<description>Units of administration, dividing areas where Member States have and/or exercise jurisdictional rights, for local, regional and national governance, separated by administrative boundaries.</description>
+	</keyword>
+	<keyword>
+		<intitule>Adresses</intitule>
+		<traduction>Addresses</traduction>
+		<annexe>01</annexe>
+		<subtem>05</subtem>
+		<description>Location of properties based on address identifiers, usually by road name, house number, postal code.</description>
+	</keyword>
+	<keyword>
+		<intitule>Cadastral parcels</intitule>
+		<traduction>Cadastral parcels</traduction>
+		<annexe>01</annexe>
+		<subtem>06</subtem>
+		<description>Areas defined by cadastral registers or equivalent.</description>
+	</keyword>
+	<keyword>
+		<intitule>Transport networks</intitule>
+		<traduction>Transport networks</traduction>
+		<annexe>01</annexe>
+		<subtem>07</subtem>
+		<description>Road, rail, air and water transport networks and related infrastructure. Includes links between different networks. Also includes the trans-European transport network as defined in Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community Guidelines for the development of the trans-European transport network and future revisions of that Decision.</description>
+	</keyword>
+	<keyword>
+		<intitule>Hydrography</intitule>
+		<traduction>Hydrography</traduction>
+		<annexe>01</annexe>
+		<subtem>08</subtem>
+		<description>Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. Where appropriate, according to the definitions set out in Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (2) and in the form of networks. </description>
+	</keyword>
+	<keyword>
+		<intitule>Protected sites</intitule>
+		<traduction>Protected sites</traduction>
+		<annexe>01</annexe>
+		<subtem>09</subtem>
+		<description>Area designated or managed within a framework of international, Community and Member States' legislation to achieve specific conservation objectives.</description>
+	</keyword>
+<!-- Annexe 2 -->
+	<keyword>
+		<intitule>Elevation</intitule>
+		<traduction>Elevation</traduction>
+		<annexe>02</annexe>
+		<subtem>01</subtem>
+		<description>Digital elevation models for land, ice and ocean surface. Includes terrestrial elevation, bathymetry and shoreline.</description>
+	</keyword>
+	<keyword>
+		<intitule>Land cover</intitule>
+		<traduction>Land cover</traduction>
+		<annexe>02</annexe>
+		<subtem>02</subtem>
+		<description>Physical and biological cover of the earth's surface including artificial surfaces, agricultural areas, forests, (semi-)natural areas, wetlands, water bodies.</description>
+	</keyword>
+	<keyword>
+		<intitule>Orthoimagery</intitule>
+		<traduction>Orthoimagery</traduction>
+		<annexe>02</annexe>
+		<subtem>03</subtem>
+		<description>Geo-referenced image data of the Earth's surface, from either satellite or airborne sensors.</description>
+	</keyword>
+	<keyword>
+		<intitule>Geology</intitule>
+		<traduction>Geology</traduction>
+		<annexe>02</annexe>
+		<subtem>04</subtem>
+		<description>Geology characterised according to composition and structure. Includes bedrock, aquifers and geomorphology.</description>
+	</keyword>
+<!-- Annexe 3 -->
+	<keyword>
+		<intitule>Statistical units</intitule>
+		<traduction>Statistical units</traduction>
+		<annexe>03</annexe>
+		<subtem>01</subtem>
+		<description>Units for dissemination or use of statistical information.</description>
+	</keyword>
+	<keyword>
+		<intitule>Buildings</intitule>
+		<traduction>Buildings</traduction>
+		<annexe>03</annexe>
+		<subtem>02</subtem>
+		<description>Geographical location of buildings.</description>
+	</keyword>
+	<keyword>
+		<intitule>Soil</intitule>
+		<traduction>Soil</traduction>
+		<annexe>03</annexe>
+		<subtem>03</subtem>
+		<description>Soils and subsoil characterised according to depth, texture, structure and content of particles and organic material, stoniness, erosion, where appropriate mean slope and anticipated water storage capacity.</description>
+	</keyword>
+	<keyword>
+		<intitule>Land use</intitule>
+		<traduction>Land use</traduction>
+		<annexe>03</annexe>
+		<subtem>04</subtem>
+		<description>Territory characterised according to its current and future planned functional dimension or socio-economic purpose (e.g. residential, industrial, commercial, agricultural, forestry, recreational).</description>
+	</keyword>
+	<keyword>
+		<intitule>Human health and safety</intitule>
+		<traduction>Human health and safety</traduction>
+		<annexe>03</annexe>
+		<subtem>05</subtem>
+		<description>Geographical distribution of dominance of pathologies (allergies, cancers, respiratory diseases, etc.), information indicating the effect on health (biomarkers, decline of fertility, epidemics) or well-being of humans (fatigue, stress, etc.) linked directly (air pollution, chemicals, depletion of the ozone layer, noise, etc.) or indirectly (food, genetically modified organisms, etc.) to the quality of the environment.</description>
+	</keyword>
+	<keyword>
+		<intitule>Utility and governmental services</intitule>
+		<traduction>Utility and governmental services</traduction>
+		<annexe>03</annexe>
+		<subtem>06</subtem>
+		<description>Includes utility facilities such as sewage, waste management, energy supply and water supply, administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals.</description>
+	</keyword>
+	<keyword>
+		<intitule>Environmental monitoring facilities</intitule>
+		<traduction>Environmental monitoring facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>07</subtem>
+		<description>Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.</description>
+	</keyword>
+	<keyword>
+		<intitule>Production and industrial facilities</intitule>
+		<traduction>Production and industrial facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>08</subtem>
+		<description>Industrial production sites, including installations covered by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control and water abstraction facilities, mining, storage sites.</description>
+	</keyword>
+	<keyword>
+		<intitule>Agricultural and aquaculture facilities</intitule>
+		<traduction>Agricultural and aquaculture facilities</traduction>
+		<annexe>03</annexe>
+		<subtem>09</subtem>
+		<description>Farming equipment and production facilities (including irrigation systems, greenhouses and stables).</description>
+	</keyword>
+	<keyword>
+		<intitule>Population distribution — demography</intitule>
+		<traduction>Population distribution — demography</traduction>
+		<annexe>03</annexe>
+		<subtem>10</subtem>
+		<description>Geographical distribution of people, including population characteristics and activity levels, aggregated by grid, region, administrative unit or other analytical unit.</description>
+	</keyword>
+	<keyword>
+		<intitule>Area management/restriction/regulation zones and reporting units</intitule>
+		<traduction>Area management/restriction/regulation zones and reporting units</traduction>
+		<annexe>03</annexe>
+		<subtem>11</subtem>
+		<description>Areas managed, regulated or used for reporting at international, European, national, regional and local levels. Includes dumping sites, restricted areas around drinking water sources, nitrate-vulnerable zones, regulated fairways at sea or large inland waters, areas for the dumping of waste, noise restriction zones, prospecting and mining permit areas, river basin districts, relevant reporting units and coastal zone management areas.</description>
+	</keyword>
+	<keyword>
+		<intitule>Natural risk zones</intitule>
+		<traduction>Natural risk zones</traduction>
+		<annexe>03</annexe>
+		<subtem>12</subtem>
+		<description>Vulnerable areas characterised according to natural hazards (all atmospheric, hydrologic, seismic, volcanic and wildfire phenomena that, because of their location, severity, and frequency, have the potential to seriously affect society), e.g. floods, landslides and subsidence, avalanches, forest fires, earthquakes, volcanic eruptions.</description>
+	</keyword>
+	<keyword>
+		<intitule>Atmospheric conditions</intitule>
+		<traduction>Atmospheric conditions</traduction>
+		<annexe>03</annexe>
+		<subtem>13</subtem>
+		<description>Physical conditions in the atmosphere. Includes spatial data based on measurements, on models or on a combination thereof and includes measurement locations.</description>
+	</keyword>
+	<keyword>
+		<intitule>Meteorological geographical features</intitule>
+		<traduction>Meteorological geographical features</traduction>
+		<annexe>03</annexe>
+		<subtem>14</subtem> 
+		<description>Weather conditions and their measurements; precipitation, temperature, evapotranspiration, wind speed and direction.</description>
+	</keyword>
+	<keyword>
+		<intitule>Oceanographic geographical features</intitule>
+		<traduction>Oceanographic geographical features</traduction>
+		<annexe>03</annexe>
+		<subtem>15</subtem>
+		<description>Physical conditions of oceans (currents, salinity, wave heights, etc.).</description>
+	</keyword>
+	<keyword>
+		<intitule>Sea regions</intitule>
+		<traduction>Sea regions</traduction>
+		<annexe>03</annexe>
+		<subtem>16</subtem>
+		<description>Physical conditions of seas and saline water bodies divided into regions and sub-regions with common characteristics.</description>
+	</keyword>
+	<keyword>
+		<intitule>Bio-geographical regions</intitule>
+		<traduction>Bio-geographical regions</traduction>
+		<annexe>03</annexe>
+		<subtem>17</subtem>
+		<description>Areas of relatively homogeneous ecological conditions with common characteristics.</description>
+	</keyword>
+	<keyword>
+		<intitule>Habitats and biotopes</intitule>
+		<traduction>Habitats and biotopes</traduction>
+		<annexe>03</annexe>
+		<subtem>18</subtem>
+		<description>Geographical areas characterised by specific ecological conditions, processes, structure, and (life support) functions that physically support the organisms that live there. Includes terrestrial and aquatic areas distinguished by geographical, abiotic and biotic features, whether entirely natural or semi-natural.</description>
+	</keyword>
+	<keyword>
+		<intitule>Species distribution</intitule>
+		<traduction>Species distribution</traduction>
+		<annexe>03</annexe>
+		<subtem>19</subtem>
+		<description>Geographical distribution of occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.</description>
+	</keyword>
+	<keyword>
+		<intitule>Energy resources</intitule>
+		<traduction>Energy resources</traduction>
+		<annexe>03</annexe>
+		<subtem>20</subtem>
+		<description>Energy resources including hydrocarbons, hydropower, bio-energy, solar, wind, etc., where relevant including depth/height information on the extent of the resource.</description>
+	</keyword>
+	<keyword>
+		<intitule>Mineral resources</intitule>
+		<traduction>Mineral resources</traduction>
+		<annexe>03</annexe>
+		<subtem>21</subtem>
+		<description>Mineral resources including metal ores, industrial minerals, etc., where relevant including depth/height information on the extent of the resource.</description>
+	</keyword>
+</keywords>

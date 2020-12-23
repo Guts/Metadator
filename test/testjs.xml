@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="testjs.xsl"?>
+<testjs>
+	<js name="one">
+	  <description>Test description one</description>
+	</js>
+	<js name="two">
+	  <description>Test description two</description>
+	</js>
+	<js name="three">
+	  <description>Test description three</description>
+	</js>
+</testjs>
